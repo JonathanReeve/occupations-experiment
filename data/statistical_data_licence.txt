@@ -1,0 +1,52 @@
+END USER LICENCE FOR STATISTICAL DATASETS
+
+Statistical Datasets from the Great Britain Historic GIS Project, University of Portsmouth
+------------------------------------------------------------------------------------------
+
+For Land Utilisation Survey statistical material the following statement must appear in or on any books, articles, maps, reports, datasets, meta-data or other publications which incorporate or are based on the material downloaded here:
+
+"This work is based on data provided through www.VisionofBritain.org.uk and uses historical Land Utilisation Survey statistical material which is copyright of The Land Utilisation Survey of Great Britain, 1933-49, copyright Audrey N. Clark."
+
+For all other statistical material except that from the Land Utilisation Survey the following statement must appear in or on any books, articles, maps, reports, datasets, meta-data or other publications which incorporate or are based on the material downloaded here:
+
+"This work is based on data provided through www.VisionofBritain.org.uk and uses statistical material which is copyright of the Great Britain Historical GIS Project, Humphrey Southall and the University of Portsmouth".
+
+If the data supplied includes information supplied by external data contributors, data values requiring additional credits will be identified in the "Credits" column of the data listing. If such credits appear, their meaning will be explained in a separate file (credits.txt), naming the external contributors who must also be acknowledged. Please use the following wording, substituting the relevant contributor or contributors' names:
+
+"These statistical data were supplied by <name of contributor> to the Great Britain Historical GIS Project."
+
+Please also follow any other specific instructions, as requested by our contributors and as given in the "credits" file.
+
+TERMS AND CONDITIONS.
+
+This Agreement is made between you and the University of Portsmouth in order to provide you with the right to use the collections provided via the website "A Vision of Britain through Time", according to the terms below.
+
+I (the "End User") hereby acknowledge that I have read and understood the terms of this Agreement and that in consideration of the statistical data being made available to me by the Great Britain Historical GIS through www.VisionofBritain.org.uk, I agree:
+
+1. To use the statistical data only in accordance with the terms of this Agreement and to notify promptly the University of Portsmouth in writing (gbhgis@port.ac.uk) should I personally become aware of any breach of its terms or of any infringements of the statistical data.
+
+2. To use and to make personal copies of any part of the statistical data only for the purposes of not-for-profit research or teaching or personal educational development or academic publications according to the terms specified below.
+
+3. That no commercial use of any part of the statistical data whatsoever is permitted under this Agreement. 
+
+4. That the statistical data are provided on an "as is" basis and without warranty or liability of any kind, and in particular that: 
+a. The University of Portsmouth bears no legal responsibility for the accuracy or comprehensiveness of the statistical data supplied. 
+b. Whilst steps have been taken to ensure all licences, authorisation and permissions required for the provision of data via www.VisionofBritain.org.uk have been obtained, this may not have been possible in all cases, and no warranties or assurance are given in this regard. To the extent that additional licences, authorisations and permissions are required for my use of the statistical data, it is my responsibility to obtain them. 
+
+5. Not to supply the statistical data to other parties or persons, who must instead obtain the data through www.VisionofBritain.org.uk.
+
+6. To ensure that the statistical data are kept secure and not disclosed to a third party except by special written permission or licence obtained from the University of Portsmouth.
+
+7. To acknowledge, in any permitted publication, whether printed, electronic or broadcast, based wholly or in part on the statistical data, the University of Portsmouth and Humphrey Southall as Director of the Great Britain Historical GIS or, in the case of the Land Utilisation Survey statistical data, The Land Utilisation Survey of Great Britain, 1933-49 and the copyright holder Audrey N. Clark. Also to acknowledge funding bodies, other researchers and institutions who contributed to the digital data original data creators, as specified in notes supplied with specific statistical data or in accompanying metadata, or as notified herein.
+
+8. To ensure the statistical data may not be made available for download. This includes all formats; for example as Microsoft Excel or Access, OpenOffice Calc or Base, tab or csv delimited text file formats or any other format.  Selected data may be included in printed or electronic publications, but only incidental to the publication of results and conclusions derived from the statistics.
+
+9. To comply with any restrictions on my use of the statistical data referred to or referenced therein or otherwise notified to me from time to time, regardless of what Attribute Data have been added, unless access is limited to authorised End Users.
+
+10. To supply the University of Portsmouth (gbhgis@port.ac.uk) with the bibliographic details of any published work based wholly or in part on the statistical data.
+
+11. To acknowledge that the Intellectual Property Rights in the statistical data are the sole and exclusive property of the University of Portsmouth or are duly licensed to the University of Portsmouth and that this Agreement does not assign or transfer any right, title or interest therein except for the right to use the materials in accordance with the terms and conditions of this Agreement.
+
+12. To notify the University of Portsmouth (gbhgis@port.ac.uk) of any errors discovered in the statistical data.
+
+I understand that breach of any of the provisions of this Agreement will lead to immediate termination of my access to all data provided by the University of Portsmouth either permanently or temporarily, at the discretion of the University of Portsmouth, and may result in legal action.

@@ -1,0 +1,26 @@
+This is an automatically generated text file specific to the statistical data download it accompanies. It explains the credit codes given with the statistical data. It may also contain instructions from the original data contributor about use of the data.
+
+Within the statistical data downloaded is a column called "g_data_credit". If the column is blank in a particular row of data then the standard citation applies as given in the End User Licence which accompanies this data download. If the column contains a credit code for a particular row of data use the contributor information given below to identify and extract the name(s) you need for the additional citation text as specified in the End User licence.
+
+
+Credit ID:
+GATLEYD_occ_1861
+
+Contributor Name:
+Gatley
+
+Contributor Forename:
+David Allan
+
+Organisation:
+School of Social Sciences, University of Staffordshire
+
+Contributor Role:
+transcribed the data from the original historical source, either
+	 to paper or directly to computerised form
+
+Condition on Use:
+the contributor must be acknowledged but the data may be freely used
+	 for non-commercial purposes.
+
+

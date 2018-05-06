@@ -1,0 +1,57 @@
+END USER LICENCE FOR CROWN COPYRIGHT STATISTICAL MATERIAL
+
+Government statistical data within crown copyright from the Great Britain Historic GIS Project, University of Portsmouth
+------------------------------------------------------------------------------------------------------------------------
+
+The following relevant statement must appear in or on any books, articles, maps, reports, datasets, meta-data or other publications which incorporate or are based on the material downloaded here;
+
+
+Accreditation for users reproducing content from the Office for National Statistics:
+"Crown copyright. Adapted from data from the Office for National Statistics licensed under the Open Government Licence v.1.0."
+
+
+Accreditation for users reproducing content from the General Register Office for Scotland:
+"Crown copyright. Data supplied by General Register Office for Scotland."
+
+
+Accreditation for users reproducing content from the Department for Environment, Food and Rural Affairs:
+"Crown copyright 2010. Adapted from data from the Department for Environment, Food and Rural Affairs (http://www.defra.gov.uk/ ) under the Open Government Licence v.1.0."
+
+
+Accreditation for users reproducing content from the Department for Communities and Local Government
+"Crown copyright 2010. Adapted from data from the Department for Communities and Local Government (http://www.communities.gov.uk/corporate/) under the Open Government Licence v.1.0."
+
+
+Accreditation for users reproducing content from the Department of Employment and Learning:
+"Crown copyright 2010. Adapted from data from the Department for Employment and Learning (http://www.delni.gov.uk/) under the Open Government Licence v.1.0."
+
+
+For use of 1971-1991 data that has been redistricted to 2001 boundaries please use the appropriate reference above together with the following:
+"This work is based on data provided through www.VisionofBritain.org.uk and uses historical material which has been re-districted by the Linking Censuses through Time system, created as part of ESRC Award H507255151 by Danny Dorling, David Martin and Richard Mitchell."
+
+
+TERMS AND CONDITIONS.
+
+This Agreement is made between you and the University of Portsmouth in order to provide you with the right to use the collections provided via the website " A Vision of Britain through Time", according to the terms below.
+
+I (the "End User") hereby acknowledge that I have read and understood the terms of this Agreement and that in consideration of the Government statistical data being made available to me by the Great Britain Historical GIS through www.VisionofBritain.org.uk, I agree:
+
+1. To use the Government statistical data only in accordance with the terms of this Agreement and to notify promptly the University of Portsmouth in writing (gbhgis@port.ac.uk) should I personally become aware of any breach of its terms or of any infringements of the historical statistical data.
+
+2. That all material from the Government departments/offices listed above (and their appropriate successors) is subject to Crown Copyright protection unless otherwise indicated. Under the terms of the Open Government Licence (http://www.nationalarchives.gov.uk/doc/open-government-licence/open-government-licence.htm)  
+and the UK Government Licensing Framework (http://www.nationalarchives.gov.uk/information-management/uk-gov-licensing-framework.htm), which was launched on 30th September 2010, anyone wishing to use or re-use crown copyright material, whether commercially or privately, may do so freely without a specific application for a licence, subject to the conditions of the Open Government Licence and the Framework. These new arrangements replace the previous Click-Use and Value Added Licences.
+
+3. That the Government statistical data are provided on an "as is" basis and without warranty or liability of any kind, and in particular that: 
+a. The University of Portsmouth bears no legal responsibility for the accuracy or comprehensiveness of the Government statistical data supplied. 
+b. Whilst steps have been taken to ensure all licences, authorisation and permissions required for the provision of data via www.VisionofBritain.org.uk have been obtained, this may not have been possible in all cases, and no warranties or assurance are given in this regard. To the extent that additional licences, authorisations and permissions are required for my use of the Government statistical data, it is my responsibility to obtain them. 
+
+4. To acknowledge, in any permitted publication, whether printed, electronic or broadcast, based wholly or in part on the Government statistical data, crown copyright through the Open Government Licence and where appropriate Danny Dorling, David Martin and Richard Mitchell, and also to acknowledge funding bodies, other researchers and institutions who contributed to the digital data original data creators, as specified in notes supplied with specific statistical data or in accompanying metadata, or as notified herein. 
+
+5. To comply with any restrictions on my use of the Government statistical data referred to or referenced therein or otherwise notified to me from time to time, regardless of what Attribute Data have been added, unless access is limited to authorised End Users.
+
+6. To supply the University of Portsmouth (gbhgis@port.ac.uk) with the bibliographic details of any published work based wholly or in part on the Government statistical data obtained via www.VisionofBritain.org.uk.
+
+7. To notify the University of Portsmouth (gbhgis@port.ac.uk) of any errors discovered in the Government statistical data.
+
+I understand that breach of any of the provisions of this Agreement will lead to immediate termination of my access to all data provided by the University of Portsmouth either permanently or temporarily, at the discretion of the University of Portsmouth, and may result in legal action.
+

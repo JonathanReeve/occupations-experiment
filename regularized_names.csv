@@ -1,18 +1,18 @@
 ﻿Accountant,Accountant,Accountant
-Accoutrement-maker,Accoutrement maker,Maker
+Accoutrement-maker,"Accoutrement maker,Maker of accoutrements",Maker
 Actor (Play),Actor,Actor
 Aeronaut,Aeronaut,Aeronaut
 Agent and Factor (branch not specified),"Agent,Factor","Agent,Factor"
-Agricultural Implement-maker,Agricultural implement maker,Maker
+Agricultural Implement-maker,"Agricultural implement maker,Maker of agricultural implements",Maker
 Alkali-manufacturer,Alkali manufacturer,Manufacturer
 Alum Manufacturer,Alum manufacturer,Manufacturer
-Anchor-smith and Chain-maker,"Anchor smith,Chain maker","Smith,Maker"
-Animal and Bird-dealer,"Animal dealer,Bird dealer",Dealer
+Anchor-smith and Chain-maker,"Anchor smith,Chain maker,Maker of chain,Maker of chains","Smith,Maker"
+Animal and Bird-dealer,"Animal dealer,Bird dealer,Dealer in animals,Dealer in birds",Dealer
 Animal and Bird-preserver,"Animal preserver,Bird preserver,Taxidermist",Taxidermist
-Annatto-maker,Annatto maker,Maker
+Annatto-maker,"Annatto maker,Maker of annatto",Maker
 Anti-dry-rot Works,Anti dry rot worker,Anti dry rot worker
-Anvil-maker,Anvil maker,Manufacturer
-Archery-goods-dealer and Maker,"Archery goods dealer,Archery goods maker","Dealer,Maker"
+Anvil-maker,"Anvil maker,Maker of anvils",Manufacturer
+Archery-goods-dealer and Maker,"Archery goods dealer,Archery goods maker,Dealer in archery goods,Maker of archery goods","Dealer,Maker"
 Architect,Architect,Architect
 "Architect, Naval",Naval architect,Architect
 Armourer,Armourer,Armourer
@@ -21,7 +21,7 @@ Army Agent,Army agent,Army agent
 Army Clothier,Army clothier,Clothier
 Army Contractor,Army contractor,Contractor
 "Army, Half-pay","Soldier,Army officer","Soldier,Officer"
-Articulator (Anatomical Instrument-maker),"Articulator,Anatomical instrument maker","Articulator,Maker"
+Articulator (Anatomical Instrument-maker),"Articulator,Anatomical instrument maker,Maker of anatomical instruments","Articulator,Maker"
 Artist (Fine Arts),Artist,Artist
 Asphalte-manufacturer,Asphalte manufacturer,Manufacturer
 Assay-master,Assay master,Assay master
@@ -30,65 +30,65 @@ Assayer,Assayer,Assayer
 "Auctioneer, Appraiser, and House Agent","Auctioneer,Appraiser,House agent","Auctioneer,Appraiser,Agent"
 Aurist,Aurist,Aurist
 Author,Author,Author
-Axle-tree-maker,Axle tree maker,Maker
-Baby-linen-dealer and Maker,"Baby linen dealer,Baby linen maker","Dealer,Maker"
-Bacon and Ham-dealer and Factor,"Bacon dealer,Ham dealer,Bacon factor,Ham factor","Dealer,Factor"
+Axle-tree-maker,"Axle tree maker,Maker of axle trees",Maker
+Baby-linen-dealer and Maker,"Baby linen dealer,Baby linen maker,Dealer in baby linen,Maker of baby linen","Dealer,Maker"
+Bacon and Ham-dealer and Factor,"Bacon dealer,Ham dealer,Bacon factor,Ham factor,Dealer in bacon,Dealer in ham","Dealer,Factor"
 Baker,Baker,Baker
-Ball-maker,Ball maker,Maker
+Ball-maker,"Ball maker,Maker of balls",Maker
 Bank Agent,Bank agent,Agent
 Banker,Banker,Banker
-Bark-dealer,Bark dealer,Dealer
-Barometer and Thermometer-maker,"Barometer maker,Thermometer maker",Maker
+Bark-dealer,"Bark dealer,Dealer in bark",Dealer
+Barometer and Thermometer-maker,"Barometer maker,Thermometer maker,Maker of barometers,Maker of thermometers",Maker
 "Barrister, Advocate, and Conveyancer","Barrister,Advocate,Conveyancer","Barrister,Advocate,Conveyancer"
-Basket-maker,Basket maker,Maker
-Bat-maker,Bat maker,Maker
+Basket-maker,"Basket maker,Maker of baskets",Maker
+Bat-maker,"Bat maker,Maker of bats",Maker
 Bath-keeper and Attendant,"Bath keeper,Bath attendant","Keeper,Attendant"
-Bath-maker,Bath maker,Maker
-Bayonet-forger and Maker,"Bayonet forger,Bayonet maker","Forger,Maker"
+Bath-maker,"Bath maker,Maker of baths",Maker
+Bayonet-forger and Maker,"Bayonet forger,Bayonet maker,Maker of bayonets","Forger,Maker"
 Bazaar-Keeper,Bazaar keeper,Keeper
-Bead-maker,Bead maker,Maker
-Bed and Mattress-maker,"Bed maker,Mattress maker",Maker
-Bedstead-maker,Bedstead maker,Maker
-Bee-dealer,Bee dealer,Dealer
-Beehive-maker,Beehive maker,Maker
+Bead-maker,"Bead maker,Maker of beads",Maker
+Bed and Mattress-maker,"Bed maker,Mattress maker,Maker of beds,Maker of mattresses",Maker
+Bedstead-maker,"Bedstead maker,Maker of bedsteads",Maker
+Bee-dealer,"Bee dealer,Dealer in bees",Dealer
+Beehive-maker,"Beehive maker,Maker of beehives",Maker
 Bell-founder,Bell founder,Founder
-Bellows-maker,Bellows maker,Maker
+Bellows-maker,"Bellows maker,Maker of bellows",Maker
 Bill-sticker,Bill sticker,Bill sticker
 Billiard-table-keeper and Marker,"Billiard table keeper,Billiard table marker","Keeper,Billiard table marker"
-Billiard-table-maker,Billiard table maker,Maker
-Bit-maker (all branches),Bit maker,Maker
+Billiard-table-maker,"Billiard table maker,Maker of billiard tables",Maker
+Bit-maker (all branches),"Bit maker,Maker of bits",Maker
 Black-lead-manufacture,Black lead manufacturer,Manufacturer
-Blacking-maker and dealer,"Blacking maker,Blacking dealer","Maker,Dealer"
+Blacking-maker and dealer,"Blacking maker,Blacking dealer,Maker of Blacking,Dealer in blacking","Maker,Dealer"
 Blacksmith,Blacksmith,Smith
-Bladder-dealer and Merchant,"Bladder dealer,Bladder merchant","Dealer,Merchant"
-Blade-maker and Forger,"Blade maker,Blade forger","Maker,Forger"
+Bladder-dealer and Merchant,"Bladder dealer,Bladder merchant,Dealer in bladders","Dealer,Merchant"
+Blade-maker and Forger,"Blade maker,Blade forger,Maker of blades","Maker,Forger"
 Bleacher (branch not specified),Bleacher,Bleacher
-Blind-maker,Blind maker,Maker
+Blind-maker,"Blind maker,Maker of blinds",Maker
 Block and Printer-cutter,"Block cutter,Printer cutter",Cutter
-"Block, Mast, and Oar-maker","Block maker, Mast maker,Oar maker",Maker
+"Block, Mast, and Oar-maker","Block maker,Mast maker,Oar maker,Maker of blocks,Maker of masts,Maker of oars",Maker
 Blue-manufacturer,Blue manufacturer,Manufacturer
 Boat and Barge Owner,"Boat owner,Barge owner",Owner
 Boat and Barge-builder,"Boat builder,Barge builder",Builder
 Boat and Bargeman and Woman,"Boatman,Bargeman,Boatwoman,Bargewoman","Boatman,Bargeman,Boatwoman,Bargewoman"
-Bobbin-maker and Turner,"Bobbin maker,Bobbin turner","Maker,Turner"
-Boiler-maker,Boiler maker,Maker
-Bolt-maker,Bolt maker,Maker
+Bobbin-maker and Turner,"Bobbin maker,Bobbin turner,Maker of bobbins","Maker,Turner"
+Boiler-maker,"Boiler maker,Maker of boilers",Maker
+Bolt-maker,"Bolt maker,Maker of bolts",Maker
 Bombazine-manufacture,Bombazine manufacturer,Manufacturer
-"Bone Merchant, Dealer and Gatherer","Bone merchant,Bone dealer,Bone gatherer","Merchant,Dealer,Gatherer"
+"Bone Merchant, Dealer and Gatherer","Bone merchant,Bone dealer,Bone gatherer,Dealer in bone,Dealer in bones","Merchant,Dealer,Gatherer"
 "Bone Turner, Cutter and Worker","Bone turner,Bone cutter,bone worker","Turner,Cutter,Bone worker"
 Bone-crusher and Miller,"Bone crusher,Bone miller","Crusher,Miller"
-Bonnet-maker,Bonnet maker,Maker
+Bonnet-maker,"Bonnet maker,Maker of bonnets",Maker
 "Bookseller, Bookbinder, and Publisher","Bookseller,Bookbinder,Publisher","Bookseller,Bookbinder,Publisher"
-Boot and Shoe-maker,"Boot maker,Shoe maker",Maker
+Boot and Shoe-maker,"Boot maker,Shoe maker,Maker of boots,Maker of shoes",Maker
 Botanist,Botanist,Botanist
-Bottle-dealer and Merchant,"Bottle dealer,Bottle merchant","Dealer,Merchant"
-Bow-string-maker,Bow string maker,Maker
-Brace and Belt-maker,"Brace maker,Belt maker",Maker
-Braid-maker,Braid maker,Maker
+Bottle-dealer and Merchant,"Bottle dealer,Bottle merchant,Dealer in bottles","Dealer,Merchant"
+Bow-string-maker,"Bow string maker,Maker of bow strings",Maker
+Brace and Belt-maker,"Brace maker,Belt maker,Maker of braces,Maker of belts",Maker
+Braid-maker,"Braid maker,Maker of braids",Maker
 Brass-founder and Moulder,"Brass founder,Brass moulder","Founder,Moulder"
 "Brazier, Brass-finisher and Worker, and Tinker","Brazier,Brass finisher,Brass worker,Tinker","Brazier,Finisher,Brass worker,Tinker"
 Brewer,Brewer,Brewer
-Brick and Tile-maker,"Brick maker,Tile maker",Maker
+Brick and Tile-maker,"Brick maker,Tile maker,Maker of bricks,Maker of brick,Maker of tiles",Maker
 Bricklayer,Bricklayer,Bricklayer
 Bridge and Canal-contractor,"Bridge contractor,Canal contractor",Contractor
 Brimstone-manufacturer,Brimstone manufacturer,Manufacturer
@@ -101,51 +101,51 @@ Broker (branch not specified),Broker,Broker
 "Broker, Stock and Share","Stock broker,Share broker",Broker
 "Broker, Sugar",Sugar broker,Broker
 Bronzer,Bronzer,Bronzer
-Brush (Artist's) and Hair-Pencil-maker,"Artist's brush maker,Hair pencil maker",Maker
-Brush and Broom-maker,"Brush maker,Broom maker",Maker
-Buckle-maker,Buckle maker,Maker
+Brush (Artist's) and Hair-Pencil-maker,"Artist's brush maker,Hair pencil maker,Maker of artist's brushes,Maker of hair pencils",Maker
+Brush and Broom-maker,"Brush maker,Broom maker,Maker of brushes,Maker of brooms",Maker
+Buckle-maker,"Buckle maker,Maker of buckles",Maker
 Buhl-cutter and Worker,"Buhl cutter,Buhl worker","Cutter,Buhl worker"
 Builder,Builder,Builder
-Building Materials-dealer,Building materials dealer,Dealer
+Building Materials-dealer,"Building materials dealer,Dealer in building materials",Dealer
 Bullion-broker and Merchant,"Bullion broker,Bullion merchant","Broker,Merchant"
 Burnisher,Burnisher,Burnisher
 Butcher,Butcher,Butcher
 "Butcher, Pork",Pork butcher,Butcher
-Butter-dealer and Merchant,"Butter dealer,Butter merchant","Dealer,Merchant"
-"Butter-dealer, Merchant, and Factor","Butter dealer,Butter merchant,Butter factor","Dealer,Merchant,Factor"
-Button-maker (all branches),Button maker,Maker
-Cabinet-maker and Upholsterer,"Cabinet maker,Cabinet upholsterer","Maker,Upholsterer"
-Cage-maker,Cage maker,Maker
+Butter-dealer and Merchant,"Butter dealer,Butter merchant,Dealer in butter","Dealer,Merchant"
+"Butter-dealer, Merchant, and Factor","Butter dealer,Butter merchant,Butter factor,Dealer in butter","Dealer,Merchant,Factor"
+Button-maker (all branches),"Button maker,Maker of buttons",Maker
+Cabinet-maker and Upholsterer,"Cabinet maker,Cabinet upholsterer,Maker of cabinets","Maker,Upholsterer"
+Cage-maker,"Cage maker,Maker of cages",Maker
 Canal Agent,Canal agent,Canal agent
 Canal Service,Canal service worker,Canal service worker
-Candle and Lamp-wick-maker,"Candle maker,Lamp wick maker",Maker
-Candlestick-maker,Candlestick maker,Maker
+Candle and Lamp-wick-maker,"Candle maker,Lamp wick maker,Maker of candles,Maker of lamp wicks",Maker
+Candlestick-maker,"Candlestick maker,Maker of candlesticks",Maker
 Cane-dresser and Worker,"Cane dresser,Cane worker","Dresser,Cane worker"
 Cane-merchant,Cane merchant,Merchant
-Canvas-maker and Weaver,"Canvas maker,Canvas weaver","Maker,Weaver"
-Cap (Metal) maker,Metal cap maker,Maker
-Cap-maker and Dealer,"Cap maker,Cap dealer","Maker,Dealer"
-Card (Paper) Maker,Paper card maker,Maker
-Card-maker,Card maker,Maker
+Canvas-maker and Weaver,"Canvas maker,Canvas weaver,Maker of canvas","Maker,Weaver"
+Cap (Metal) maker,"Metal cap maker,Maker of metal caps",Maker
+Cap-maker and Dealer,"Cap maker,Cap dealer,Maker of caps,Dealer in caps","Maker,Dealer"
+Card (Paper) Maker,"Paper card maker,Maker of paper card,Maker of paper cards",Maker
+Card-maker,"Card maker,Maker of card,Maker of cards",Maker
 Carpenter and Joiner,"Carpenter,Joiner","Carpenter,Joiner"
 Carpet and Rug-manufacture (all branches),"Carpet manufacturer,Rug manufacturer",Manufacturer
-Carpet-bag-maker,Carpet bag maker,Maker
-Carpet-dealer and Warehouseman,"Carpet dealer,Carpet warehouseman,Carpet warehousewoman","Dealer,Warehouseman,Warehousewoman"
+Carpet-bag-maker,"Carpet bag maker,Maker of carpet bags",Maker
+Carpet-dealer and Warehouseman,"Carpet dealer,Carpet warehouseman,Carpet warehousewoman,Dealer in carpet","Dealer,Warehouseman,Warehousewoman"
 "Carrier, Carter, and Waggoner","Carrier,Carter,Waggoner","Carrier,Carter,Waggoner"
-Cartridge-maker,Cartridge maker,Maker
+Cartridge-maker,"Cartridge maker,Maker of cartridges",Maker
 Carver and Gilder,"Carver,Gilder","Carver,Gilder"
-Case-maker,Case maker,Maker
-Castor-maker,Castor maker,Maker
-Catgut-maker and Gut-blower and Spinner,"Catgut maker,Gut blower,Gut spinner","Maker,Gut blower,Spinner"
-Cattle and Sheep-dealer and Salesman,"Cattle dealer,Sheep dealer,Cattle salesman,Sheep salesman,Cattle saleswoman,Sheep saleswoman","Dealer,Salesman,Saleswoman"
+Case-maker,"Case maker,Maker of cases",Maker
+Castor-maker,"Castor maker,Maker of castor",Maker
+Catgut-maker and Gut-blower and Spinner,"Catgut maker,Gut blower,Gut spinner,Maker of catgut","Maker,Gut blower,Spinner"
+Cattle and Sheep-dealer and Salesman,"Cattle dealer,Sheep dealer,Cattle salesman,Sheep salesman,Cattle saleswoman,Sheep saleswoman,Dealer in cattle,Dealer in sheep","Dealer,Salesman,Saleswoman"
 Cellarman,Cellarman,Cellarman
-Cement-grinder and Maker,"Cement grinder,Cement maker","Grinder,Maker"
+Cement-grinder and Maker,"Cement grinder,Cement maker,Maker of cement","Grinder,Maker"
 Chaff-cutter,Chaff cutter,Cutter
-Chain (Curb) maker,Curb chain maker,Maker
+Chain (Curb) maker,"Curb chain maker,Maker of curb chain,Maker of curb chains",Maker
 Chair-letter,Chair letter,Chair letter
-Chair-maker,Chair maker,Maker
-Chandelier-maker,Chandelier maker,Maker
-Charcoal-burner and Dealer,"Charcoal burner,Charcoal dealer","Charcoal burner,Dealer"
+Chair-maker,"Chair maker,Maker of chairs",Maker
+Chandelier-maker,"Chandelier maker,Maker of chandeliers",Maker
+Charcoal-burner and Dealer,"Charcoal burner,Charcoal dealer,Dealer in charcoal","Charcoal burner,Dealer"
 Charwoman,"Charwoman,Charman","Charwoman,Charman"
 Chaser,Chaser,Chaser
 "Chaser, Herald","Chaser,Herald","Chaser,Herald"
@@ -153,74 +153,74 @@ Cheesemonger and Factor,"Cheesemonger,Cheese factor","Cheesemonger,Factor"
 Chemist and Druggist,"Chemist,Druggist","Chemist,Druggist"
 "Chemist, Manufacturing",Manufacturing chemist,Chemist
 Chimney-sweeper,Chimney sweeper,Chimney sweeper
-"China, Earthenware, and Glass-dealer","China dealer,Earthenware dealer,Glass dealer",Dealer
+"China, Earthenware, and Glass-dealer","China dealer,Earthenware dealer,Glass dealer,Dealer in china,Dealer in earthenware,Dealer in glass",Dealer
 Chocolate-manufacture,Chocolate manufacturer,Manufacturer
-Cider-merchant and Dealer,"Cider merchant,Cider dealer","Merchant,Dealer"
-Clasp-maker,Clasp maker,Maker
+Cider-merchant and Dealer,"Cider merchant,Cider dealer,Dealer in cider","Merchant,Dealer"
+Clasp-maker,"Clasp maker,Maker of clasps",Maker
 Clay Agent and Merchant,"Clay agent,Clay merchant","Clay agent,Merchant"
 Clay Labourer,Clay labourer,Clay labourer
 Clergyman,Clergyman,Clergyman
 Clerk (Commercial),Commercial clerk,Clerk
-Clock and Watch-maker,"Clock maker,Watch maker",Maker
+Clock and Watch-maker,"Clock maker,Watch maker,Maker of clocks,Maker of watches",Maker
 Cloth-merchant and Salesman,"Cloth merchant,Cloth salesman,Cloth saleswoman","Merchant,Salesman,Saleswoman"
-Clothes-dealer and Outfitter,"Clothes dealer,Outfitter","Dealer,Outfitter"
+Clothes-dealer and Outfitter,"Clothes dealer,Outfitter,Dealer in clothes","Dealer,Outfitter"
 Clothier,Clothier,Clothier
-Coach Lace-maker and Weaver,"Coach lace maker,Coach lace weaver","Maker,Weaver"
-Coach Lamp-maker,Coach lamp maker,Maker
-Coach Maker (all branches),Coach maker,Maker
+Coach Lace-maker and Weaver,"Coach lace maker,Coach lace weaver,Maker of coach lace","Maker,Weaver"
+Coach Lamp-maker,"Coach lamp maker,Maker of coach lamps",Maker
+Coach Maker (all branches),"Coach maker,Maker of coaches",Maker
 "Coach, Cab, and Omnibus-owner","Coach owner,Cab owner,Omnibus owner",Owner
 "Coachman, Coach-guard, and Postboy","Coachman,Coach guard,Postboy,Postgirl","Coachman,Guard,Postboy,Postgirl"
 Coal and Colliery Agent and Bailiff,"Coal agent,Colliery agent,Bailiff","Agent,Bailiff"
 Coal Fitter,Coal fitter,Coal fitter
 "Coal Labourer, Heaver, and Porter","Coal labourer,Coal heaver,Coal porter","Coal labourer,Coal heaver,Coal porter"
-Coal Merchant and Dealer,"Coal merchant,Coal dealer","Merchant,Dealer"
+Coal Merchant and Dealer,"Coal merchant,Coal dealer,Dealer in coal","Merchant,Dealer"
 Coal Meter,Coal meter,Coal meter
 Coal Owner,Coal owner,Owner
 Cock-founder,Cock founder,Founder
 Coffee House-keeper,Coffee house keeper,Keeper
 Coffee-and Cocoa-roaster,"Coffee roaster,Cocoa roaster",Roaster
-Coffee-dealer and Merchant,"Coffee dealer,Coffee merchant","Dealer,Merchant"
-Coke-burner and Dealer,"Coke burner,Coke dealer","Coke burner,Dealer"
-Collar (Dog) Maker,Dog collar maker,Maker
+Coffee-dealer and Merchant,"Coffee dealer,Coffee merchant,Dealer in coffee","Dealer,Merchant"
+Coke-burner and Dealer,"Coke burner,Coke dealer,Dealer in coke","Coke burner,Dealer"
+Collar (Dog) Maker,"Dog collar maker,Maker of dog collars",Maker
 Colonial Agent and Broker,"Colonial agent,Colonial broker","Agent,Broker"
 Colour-manufacture,Colour manufacturer,Manufacturer
 "Colourman, Artists'","Artists' colourman,Artists' colourwoman","Colourman,Colourwoman"
-Comb-maker,Comb maker,Maker
+Comb-maker,"Comb maker,Maker of combs",Maker
 Commission Agent and Factor,"Commission agent,Commission factor","Agent,Factor"
-Compass-maker,Compass maker,Maker
-Composition-maker,Composition maker,Maker
+Compass-maker,"Compass maker,Maker of compasses",Maker
+Composition-maker,"Composition maker,Maker of compositions",Maker
 Cooper,Cooper,Cooper
-Cooper (Back-maker),Back maker,Maker
+Cooper (Back-maker),"Back maker,Maker of backs",Maker
 Copper Agent,Copper agent,Agent
 Copper Manufacture,Copper manufacturer,Manufacturer
 Copper Merchant,Copper merchant,Merchant
-Copper Plate-maker and Worker,"Copper plate maker,Copper plate worker","Maker,Copper plate worker"
+Copper Plate-maker and Worker,"Copper plate maker,Copper plate worker,Maker of copper plate,Maker of copper plates","Maker,Copper plate worker"
 Copper-smith,Copper smith,Smith
 Copperas-manufacturer,Copperas manufacturer,Manufacturer
 Coral-carver and Worker,"Coral carver,Coral worker","Carver,Worker"
 Cork-cutter and Manufacturer,"Cork cutter,Cork manufacturer","Cutter,Manufacturer"
 Cork-merchant,Cork merchant,Merchant
-Cork-screw-maker,Cork screw maker,Maker
+Cork-screw-maker,"Cork screw maker,Maker of cork screws",Maker
 Corn Agent,Corn agent,Agent
-"Corn Merchant, Dealer, and Factor","Corn merchant,Corn dealer,Corn factor","Merchant,Dealer,Factor"
+"Corn Merchant, Dealer, and Factor","Corn merchant,Corn dealer,Corn factor,Dealer in corn","Merchant,Dealer,Factor"
 Corn Meter,Corn meter,Meter
 Corn-cutter (Chiropodist),"Corn cutter,Chiropodist","Cutter,Chiropadist"
-Cornice-maker,Cornice maker,Maker
+Cornice-maker,"Cornice maker,Maker of cornices",Maker
 Cotton Agent and Broker,"Cotton agent,Cotton broker","Agent,Broker"
 Cotton Manufacture (all branches),Cotton manufacturer,Manufacturer
-Cotton Merchant and Dealer,"Cotton merchant,Cotton dealer","Merchant,Dealer"
-Cotton-band-maker,Cotton band maker,Maker
+Cotton Merchant and Dealer,"Cotton merchant,Cotton dealer,Dealer in cotton","Merchant,Dealer"
+Cotton-band-maker,"Cotton band maker,Maker of cotton bands",Maker
 Courier,Courier,Courier
-Cover (Table) Maker,Table cover maker,Maker
-Cover-maker,Cover maker,Maker
-Coverlet-maker,Coverlet maker,Maker
+Cover (Table) Maker,"Table cover maker,Maker of table covers",Maker
+Cover-maker,"Cover maker,Maker of covers",Maker
+Coverlet-maker,"Coverlet maker,Maker of coverlets",Maker
 Crape Manufacture (all branches),Crape manufacturer,Manufacturer
-Crate-maker,Crate maker,Maker
-Crucible and Casting-pot-maker,"Crucible maker,Casting pot maker",Maker
+Crate-maker,"Crate maker,Maker of crates",Maker
+Crucible and Casting-pot-maker,"Crucible maker,Casting pot maker,Maker of crucibles,Maker of casting pots",Maker
 Cupper and Dentist,"Cupper,Dentist","Cupper,Dentist"
-Curiosity-dealer,Curiosity dealer,Dealer
+Curiosity-dealer,"Curiosity dealer,Dealer in curiosities",Dealer
 Currier and Leather-seller,"Currier,Leather seller","Currier,Seller"
-Curry-comb maker,Curry comb maker,Maker
+Curry-comb maker,"Curry comb maker,Maker of curry combs",Maker
 Customs-house Agent,Customs house agent,Agent
 Cutler,Cutler,Cutler
 Diamond Merchant,Diamond merchant,Merchant
@@ -228,12 +228,12 @@ Diamond-setter and Worker,"Diamond setter,Diamond worker","Diamond setter,Diamon
 Die-engraver and Sinker,"Die engraver,Die sinker","Engraver,Die sinker"
 Distiller and Rectifier,"Distiller,Rectifier","Distiller,Rectifier"
 Dock Service,Dock labourer,Dock labourer
-Dog-breaker and Dealer,"Dog breaker,Dog dealer","Dog breaker,Dealer"
+Dog-breaker and Dealer,"Dog breaker,Dog dealer,Dealer in dogs","Dog breaker,Dealer"
 Draper,Draper,Draper
 "Draper, Linen",Linen draper,Draper
 Draughtsman,"Draughtsman,Draughtswoman","Draughtsman,Draughtswoman"
-Dress-maker and Milliner,"Dress maker,Milliner","Maker,Milliner"
-Dressing and Writing-case-maker,"Dressing case maker,Writing case maker",Maker
+Dress-maker and Milliner,"Dress maker,Milliner,Maker of dresses","Maker,Milliner"
+Dressing and Writing-case-maker,"Dressing case maker,Writing case maker,Maker of dressing cases,Maker of writing cases",Maker
 Drill-master,Drill master,Drill master
 Drover,Drover,Drover
 Drug-broker and Merchant,"Drug broker,Drug merchant","Broker,Merchant"
@@ -251,57 +251,57 @@ Dye-manufacture (all branches),Dye manufacturer,Manufacturer
 "East India Agent, Broker and Merchant","East India agent,East India broker,East India merchant","Agent,Broker,Merchant"
 East India Company's Service,"East India Company Soldier,East India Company Officer","Soldier,Officer"
 Eating-house-keeper,Eating house keeper,Keeper
-Egg-merchant and Dealer,"Egg merchant,Egg dealer","Merchant,Dealer"
+Egg-merchant and Dealer,"Egg merchant,Egg dealer,Dealer in eggs","Merchant,Dealer"
 Embosser,Embosser,Embosser
 Embroiderer,Embroiderer,Embroiderer
 Enameller,Enameller,Enameller
-Engine and Machine-maker,"Engine maker,Machine maker",Maker
+Engine and Machine-maker,"Engine maker,Machine maker,Maker of engines,Maker of machines",Maker
 Engine-turner,Engine turner,Turner
 Engineer and Engine-worker,"Engineer,Engine worker","Engineer,Engine worker"
 "Engineer, Civil",Civil engineer,Engineer
 Engraver (all branches),Engraver,Engraver
 Exhibition (Show) Keeper,"Exhibition keeper,Show keeper",Keeper
-Eye (Artificial) maker,Artifical eye maker,Maker
+Eye (Artificial) maker,"Artifical eye maker,Maker of artificial eyes",Maker
 Factory-worker (manufacture not specified),Factory worker,Factory worker
-Fan-maker,Fan maker,Maker
+Fan-maker,"Fan maker,Maker of fans",Maker
 Fancy Goods Manufacture,Fancy goods manufacturer,Manufacturer
-Fancy Goods Warehouseman and Dealer,"Fancy goods warehouseman,Fancy goods warehousewoman,Fancy goods dealer","Warehouseman,Warehousewoman,Dealer"
+Fancy Goods Warehouseman and Dealer,"Fancy goods warehouseman,Fancy goods warehousewoman,Fancy goods dealer,Dealer in fancy goods","Warehouseman,Warehousewoman,Dealer"
 Farm-bailiff and Land-steward,"Farm bailiff,Land steward","Bailiff,Steward"
 Farmer and Grazier,"Farmer,Grazier","Farmer,Grazier"
 "Farrier, Cattle-doctor and Veterinary Surgeon","Farrier,Cattle doctor,Veterinary surgeon","Farrier,Doctor,Surgeon"
-"Feather-maker, Dealer, and Dresser","Feather maker,Feather dealer,Feather dresser","Maker,Dealer,Dresser"
+"Feather-maker, Dealer, and Dresser","Feather maker,Feather dealer,Feather dresser,Maker of feathers,Dealer in feathers","Maker,Dealer,Dresser"
 Fellmonger,Fellmonger,Fellmonger
 Felt-manufacture,Felt manufacturer,Manufacturer
-Fence and Hurdle-maker,"Fence maker,Hurdle maker",Maker
-Fender-maker,Fender maker,Maker
-Fent (Cotton) Dealer and Maker,"Fent dealer,Fent maker","Dealer,Maker"
-Figure and Image maker,"Figure maker,Image maker",Maker
-File-maker (all branches),File maker,Maker
-Filter-maker,Filter maker,Maker
-Fire-iron-maker,Fire iron maker,Maker
+Fence and Hurdle-maker,"Fence maker,Hurdle maker,Maker of fences,Maker of hurdles",Maker
+Fender-maker,"Fender maker,Maker of fenders",Maker
+Fent (Cotton) Dealer and Maker,"Fent dealer,Fent maker,Dealer in fent,Maker of fent","Dealer,Maker"
+Figure and Image maker,"Figure maker,Image maker,Maker of figures,Maker of images",Maker
+File-maker (all branches),"File maker,Maker of files",Maker
+Filter-maker,"Filter maker,Maker of filters",Maker
+Fire-iron-maker,"Fire iron maker,Maker of file iron,Maker of file irons",Maker
 Fireman,Fireman,Fireman
-Firework-maker,Firework maker,Maker
+Firework-maker,"Firework maker,Maker of fireworks",Maker
 Fish Contractor,Fish contractor,Contractor
 Fish-curer,Fish curer,Curer
-Fish-hook-maker,Fish hook maker,Maker
+Fish-hook-maker,"Fish hook maker,Maker of fish hooks",Maker
 Fisherman and Woman,"Fisherman,Fisherwoman","Fisherman,Fisherwoman"
-Fishing-rod and Tackle-maker,"Fishing rod maker,Fishing tackle maker",Maker
-Fishmonger and Dealer,"Fishmonger,Fish dealer","Fishmonger,Dealer"
+Fishing-rod and Tackle-maker,"Fishing rod maker,Fishing tackle maker,Maker of fishing rods,Maker of fishing tackle",Maker
+Fishmonger and Dealer,"Fishmonger,Fish dealer,Dealer in fish","Fishmonger,Dealer"
 Flannel Agent and Merchant,"Flannel agent,Flannel merchant","Agent,Merchant"
 Flannel manufacture (all branches),Flannel manufacturer,Manufacturer
-Flask (Powder) and Shot-Belt-maker,"Powder flask maker,Shot belt maker",Maker
-Flask-maker,Flask maker,Maker
+Flask (Powder) and Shot-Belt-maker,"Powder flask maker,Shot belt maker,Maker of powder flasks,Maker of shot belts",Maker
+Flask-maker,"Flask maker,Maker of flasks",Maker
 Flax and Linen-manufacture (all branches),"Flax manufacturer,Linen manufacturer",Manufacturer
 Flax Merchant and Stapler,"Flax merchant,Flax stapler","Merchant,Stapler"
-Flint-miller and Dealer,"Flint miller,Flint dealer","Miller,Dealer"
-Flock-dealer and Merchant,"Flock dealer,Flock merchant","Dealer,Merchant"
+Flint-miller and Dealer,"Flint miller,Flint dealer,Dealer in flint","Miller,Dealer"
+Flock-dealer and Merchant,"Flock dealer,Flock merchant,Dealer in flocks","Dealer,Merchant"
 Flock-manufacture,Flock manufacturer,Manufacturer
 Floor-cloth Manufacture,Floor cloth manufacturer,Manufacturer
-Flour-dealer and Mealman,"Flour dealer,Mealman,Mealwoman","Dealer,Mealman,Mealwoman"
-Flower (Artificial) maker,Artificial flower maker,Maker
-Fork-maker,Fork maker,Maker
+Flour-dealer and Mealman,"Flour dealer,Mealman,Mealwoman,Dealer in flour","Dealer,Mealman,Mealwoman"
+Flower (Artificial) maker,"Artificial flower maker,Maker of artificial flowers",Maker
+Fork-maker,"Fork maker,Maker of forks",Maker
 Founder (branch not specified),Founder,Founder
-Frame-maker,Frame maker,Maker
+Frame-maker,"Frame maker,Maker of frames",Maker
 French-polisher,French polisher,Polisher
 Fringe-manufacture,Fringe manufacturer,Manufacturer
 Fruit-broker and Merchant,"Fruit broker,Fruit merchant","Broker,Merchant"
@@ -310,93 +310,93 @@ Furrier,Furrier,Furrier
 Fustian Manufacture (all branches),Fustian manufacturer,Manufacturer
 Gardener,Gardener,Gardener
 Gas-fitter,Gas fitter,Gas fitter
-Gas-meter-maker,Gas meter maker,Maker
+Gas-meter-maker,"Gas meter maker,Maker of gas meters",Maker
 Gas-works Service,Gas works labourer,Gas works labourer
 Gauze-manufacture,Gauze manufacturer,Manufacturer
 Gimp-spinner and Weaver,"Gimp spinner,Gimp weaver","Spinner,Weaver"
-"Ginger-beer, Soda and Mineral-water-maker","Ginger beer maker,Soda maker,Mineral water maker",Maker
-Girth-web-maker and Weaver,"Girth web maker,Girth web weaver","Maker,Weaver"
-Glass (Plate) maker,Plate glass maker,Maker
-Glass and Emery-paper-maker,"Glass paper maker,Emery paper maker",Maker
+"Ginger-beer, Soda and Mineral-water-maker","Ginger beer maker,Soda maker,Mineral water maker,Maker of ginger beer,Maker of soda,Maker of mineral waters",Maker
+Girth-web-maker and Weaver,"Girth web maker,Girth web weaver,Maker of girth web","Maker,Weaver"
+Glass (Plate) maker,"Plate glass maker,Maker of plate glass",Maker
+Glass and Emery-paper-maker,"Glass paper maker,Emery paper maker,Maker of glass paper,Maker of emery paper",Maker
 Glass and Glass Bottle-manufacture (all branches),"Glass manufacturer,Glass bottle manufacturer",Manufacturer
 Glass-merchant,Glass merchant,Merchant
 Glass-painter and Stainer,"Glass painter,Glass stainer","Painter,Stainer"
-Globe-maker,Globe maker,Maker
+Globe-maker,"Globe maker,Maker of globes",Maker
 Glove (Silk) Manufacture (all branches),Silk glove manufacturer,Manufacturer
-Glove-maker and Glover,"Glove maker,Glover","Maker,Glover"
-Glue and Size-maker and Dealer,"Glue maker,Glue dealer,Size maker,Size dealer","Maker,Dealer"
-Gold Beater's skin-maker,Gold beater's skin maker,Maker
+Glove-maker and Glover,"Glove maker,Glover,Maker of gloves","Maker,Glover"
+Glue and Size-maker and Dealer,"Glue maker,Glue dealer,Size maker,Size dealer,Dealer in glue,Dealer in sizes,Maker of glue,Maker of sizes","Maker,Dealer"
+Gold Beater's skin-maker,"Gold beater's skin maker,Maker of gold beater's skin,Maker of gold beater's skins",Maker
 Gold-beater,Gold beater,Gold beater
-Gold-lace-maker,Gold lace maker,Maker
+Gold-lace-maker,"Gold lace maker,Maker of gold lace",Maker
 "Government Civil Service, All other Departments","Civil service worker,Government employee,Government clerk","Civil service worker,Government employee,Government clerk"
 "Government Civil Service, Customs and Excise","Customs agent,Customs officer,Exise agent,Excise officer,Exciseman,Excisewoman","Customs agent,Customs officer,Exise agent,Excise officer,Exciseman,Excisewoman"
 "Government Civil Service, Post-office","Post office clerk,Post office labourer,Letter carrier,Mailman,Mailwoman","Post office clerk,Post office labourer,Letter carrier,Mailman,Mailwoman"
 "Government Civil Service, Stamps and Taxes","Stamp officer,Stamp master,Tax collector,Tax assessor,Taxman,Taxwoman","Stamp officer,Stamp master,Tax collector,Tax assessor,Taxman,Taxwoman"
-"Grate, Range, and Stove-maker","Grate maker,Range maker,Stove maker",Maker
-Grease-maker and Dealer,"Grease maker,Grease dealer","Maker,Dealer"
+"Grate, Range, and Stove-maker","Grate maker,Range maker,Stove maker,Maker of grates,Maker of ranges,Maker of stoves",Maker
+Grease-maker and Dealer,"Grease maker,Grease dealer,Dealer in grease,Maker of grease","Maker,Dealer"
 Green-grocer and Fruiterer,"Green grocer,Fruiterer","Grocer,Fruiterer"
 Grinder,Grinder,Grinder
-Grindery-dealer,Grindery dealer,Dealer
-Grocer and Tea-dealer,"Grocer,Tea dealer","Grocer,Dealer"
+Grindery-dealer,"Grindery dealer,Dealer in grindery",Dealer
+Grocer and Tea-dealer,"Grocer,Tea dealer,Dealer in tea","Grocer,Dealer"
 Groom and Hostler,"Groom,Hostler","Groom,Hostler"
-Guard-chain-maker,Guard chain maker,Maker
-Gun (Air) Maker,Air gun maker,Maker
-Gun Flint-maker,Gun flint maker,Maker
-Gun Implement-maker,Gun implement maker,Maker
-Gun Powder-maker,Gun powder maker,Maker
-Gun-barrel-maker,Gun barrel maker,Maker
-Gun-maker and Gun-smith,"Gun maker,Gun smith","Maker,Smith"
+Guard-chain-maker,"Guard chain maker,Maker of guard chains,Maker of guard chain",Maker
+Gun (Air) Maker,"Air gun maker,Maker of air guns",Maker
+Gun Flint-maker,"Gun flint maker,Maker of gun flints",Maker
+Gun Implement-maker,"Gun implement maker,Maker of gun implements",Maker
+Gun Powder-maker,"Gun powder maker,Maker of gun powder",Maker
+Gun-barrel-maker,"Gun barrel maker,Maker of gun barrels",Maker
+Gun-maker and Gun-smith,"Gun maker,Gun smith,Maker of guns","Maker,Smith"
 Haberdasher and Hosier,"Haberdasher,Hosier","Haberdasher,Hosier"
-Hackle-maker,Hackle maker,Maker
-Haft and Scale-maker and Turner,"Haft maker,Scale maker,Haft turner","Maker,Turner"
+Hackle-maker,"Hackle maker,Maker of hackles",Maker
+Haft and Scale-maker and Turner,"Haft maker,Scale maker,Haft turner,Maker of hafts,Maker of scales","Maker,Turner"
 Hair (Artist in),Hair artist,Hair artist
-Hair Dealer and Merchant,"Hair dealer,Hair merchant","Dealer,Merchant"
+Hair Dealer and Merchant,"Hair dealer,Hair merchant,Dealer in hair","Dealer,Merchant"
 Hair-dresser and Barber,"Hair dresser,Barber","Hair dresser,Barber"
 Hair-manufacturer (all branches),Hair manufacturer,Manufacturer
 Harbour and Quay-master,"Harbour master,Quay master","Harbour master,Quay master"
-Hardware-man and Dealer,"Hardware man,Hardware woman,Hardware dealer","Hardware man,Hardware woman,Dealer"
-Hat and Band box-maker,"Hat maker,Band box maker",Maker
-Hat-block-maker,Hat block maker,Maker
+Hardware-man and Dealer,"Hardware man,Hardware woman,Hardware dealer,Dealer in hardware","Hardware man,Hardware woman,Dealer"
+Hat and Band box-maker,"Hat maker,Band box maker,Maker of hats,Maker of band boxes",Maker
+Hat-block-maker,"Hat block maker,Maker of hat blocks",Maker
 Hatter and Hat-manufacturer (all branches),"Hatter,Hat manufacturer","Hatter,Manufacturer"
 "Hawker, Huckster, and Pedlar","Hawker,Huckster,Pedlar","Hawker,Huckster,Pedlar"
-Hay and Straw-dealer,"Hay dealer,Straw dealer",Dealer
-Heald-maker,Heald maker,Maker
-Hemp dealer and Merchant,"Hemp dealer,Hemp merchant","Dealer,Merchant"
+Hay and Straw-dealer,"Hay dealer,Straw dealer,Dealer in straw",Dealer
+Heald-maker,"Heald maker,Maker of healds",Maker
+Hemp dealer and Merchant,"Hemp dealer,Hemp merchant,Dealer in hemp","Dealer,Merchant"
 Hemp-manufacture (all branches),Hemp manufacturer,Manufacturer
 Herb Distiller,Herb distiller,Distiller
 Herbalist,Herbalist,Herbalist
-Hinge-maker,Hinge maker,Make
-Hook and Eye-maker,"Hook maker,Eye maker",Maker
-Hoop-maker,Hoop maker,Maker
-Hop-dealer and Merchant,"Hop dealer,Hop merchant","Dealer,Merchant"
+Hinge-maker,"Hinge maker,Maker of hinges",Make
+Hook and Eye-maker,"Hook maker,Eye maker,Maker of hooks,Maker of eyes",Maker
+Hoop-maker,"Hoop maker,Maker of hoops",Maker
+Hop-dealer and Merchant,"Hop dealer,Hop merchant,Dealer in hops","Dealer,Merchant"
 Horn-turner and Worker,"Horn turner,Horn worker","Turner,Horn worker"
-Horse-dealer and Trainer,"Horse dealer,Horse trainer","Dealer,Trainer"
+Horse-dealer and Trainer,"Horse dealer,Horse trainer,Dealer in horses","Dealer,Trainer"
 Hose (Stocking) manufacture (all branches),"Hose manufacturer,Stocking manufacturer",Manufacturer
 Hot-presser,Hot presser,Hot presser
-Ice-dealer,Ice dealer,Dealer
+Ice-dealer,"Ice dealer,Dealer in ice",Dealer
 India-rubber and Mackintosh-manufacture,"India rubber manufacturer,Mackintosh manufacturer",Manufacturer
 India-rubber-merchant,India rubber merchant,Merchant
 Indigo-broker and Merchant,"Indigo broker,Indigo merchant","Broker,Merchant"
-Ink-maker,Ink maker,Maker
-Ink-stand-maker,Ink stand maker,Maker
-Instrument Case-maker,Instrument case maker,Maker
-Instrument-maker,Instrument maker,Maker
+Ink-maker,"Ink maker,Maker of ink",Maker
+Ink-stand-maker,"Ink stand maker,Maker of ink stands",Maker
+Instrument Case-maker,"Instrument case maker,Maker of instrument cases",Maker
+Instrument-maker,"Instrument maker,Maker of instruments",Maker
 Insurance-agent and Broker,"Insurance agent,Insurance broker","Agent,Broker"
 Iron Agent,Iron agent,Agent
-Iron Box-maker,Iron box maker,Maker
+Iron Box-maker,"Iron box maker,Maker of iron boxes",Maker
 Iron Manufacture (all branches),Iron manufacturer,Manufacturer
 Iron Master,Iron master,Iron master
 "Iron Monger, Saddler's",Saddler's iron monger,Iron monger
-Iron-dealer and Merchant,"Iron dealer,Iron merchant","Dealer,Merchant"
+Iron-dealer and Merchant,"Iron dealer,Iron merchant,Dealer in iron","Dealer,Merchant"
 Ironmonger,Ironmonger,Ironmonger
-Isinglass-maker,Isinglass maker,Maker
-"Ivory-cutter, Worker, and Dealer","Ivory cutter,Ivory worker,Ivory dealer","Cutter,Ivory worker,Dealer"
-Jack (Bottle) maker,Bottle jack maker,Maker
-Jack (Coach) Maker,Coach jack maker,Maker
-Jack-maker,Jack maker,Maker
+Isinglass-maker,"Isinglass maker,Maker of isinglass",Maker
+"Ivory-cutter, Worker, and Dealer","Ivory cutter,Ivory worker,Ivory dealer,Dealer in ivory","Cutter,Ivory worker,Dealer"
+Jack (Bottle) maker,"Bottle jack maker,Maker of bottle jacks",Maker
+Jack (Coach) Maker,"Coach jack maker,Maker of coach jacks",Maker
+Jack-maker,"Jack maker,Maker of jacks",Maker
 Japanner,Japanner,Japanner
 Jet carver and Worker,"Jet carver,Jet worker","Carver,Jet worker"
-Jewel-case-maker,Jewel case maker,Maker
+Jewel-case-maker,"Jewel case maker,Maker of jewel cases",Maker
 "Jeweller, Goldsmith, and Silversmith","Jeweller,Goldsmith,Silversmith","Jeweller,Goldsmith,Silversmith,Smith"
 Keeper Light and Light-house,"Light keeper,Light house keeper",Keeper
 Keeper or Head of Public Institution,"Public institution keeper,Public institution head","Keeper,Public institution head"
@@ -406,68 +406,68 @@ Keeper or Head of Public Institution,"Public institution keeper,Public instituti
 Knacker,Knacker,Knacker
 Knitter,Knitter,Knitter
 "Knitter, Framework",Framework knitter,Knitter
-Label-maker,Label maker,Maker
+Label-maker,"Label maker,Maker of labels",Maker
 Labourer,Labourer,Labourer
 "Labourer, Agricultural",Agricultural labourer,Agricultural labourer
 Lace Agent,Lace agent,Agent
-Lace-dealer and Laceman,"Lace dealer,Laceman,Lacewoman","Dealer,Laceman,Lacewoman"
+Lace-dealer and Laceman,"Lace dealer,Laceman,Lacewoman,Dealer in lace","Dealer,Laceman,Lacewoman"
 Lace-manufacture (all branches),Lace manufacturer,Manufacturer
-Lamp and Lantern-maker,"Lamp maker,Lantern maker",Maker
-Lamp-black-maker,Lamp black maker,Maker
+Lamp and Lantern-maker,"Lamp maker,Lantern maker,Maker of lamps,Maker of lanterns",Maker
+Lamp-black-maker,"Lamp black maker,Maker of lamp black,Maker of lamp blacks",Maker
 Lamp-contractor,Lamp contractor,Contractor
 Land Agent,Land agent,Agent
 Lapidary,Lapidarist,Lapidarist
-Last-maker,Last maker,Maker
-Lath-maker and Render,"Lath maker,Last render","Maker,Lace render"
+Last-maker,"Last maker,Maker of lasts",Maker
+Lath-maker and Render,"Lath maker,Last render,Maker of laths","Maker,Lace render"
 "Laundry-keeper, Washer, and Mangler","Laundry keeper,Laundry washer,Laundry mangler","Keeper,Washer,Mangler"
 Law Agent,Law agent,Law agent
 Law Officer,Law officer,Law officer
 Lead Agent,Lead agent,Agent
 Lead-manufacture (all branches),Lead manufacturer,Manufacturer
-Leather-case-maker,Leather case maker,Maker
+Leather-case-maker,"Leather case maker,Maker of leather cases",Maker
 Leather-embosser and Gilder,"Leather embosser,Leather gilder","Embosser,Gilder"
-Leather-pipe-maker,Leather pipe maker,Maker
-Leech bleeder and Dealer,"Leech bleeder,Leech dealer","Bleeder,Dealer"
-Letter-cutter and Maker,"Letter cutter,Letter maker","Cutter,Maker"
+Leather-pipe-maker,"Leather pipe maker,Maker of leather pipes",Maker
+Leech bleeder and Dealer,"Leech bleeder,Leech dealer,Dealer in leeches","Bleeder,Dealer"
+Letter-cutter and Maker,"Letter cutter,Letter maker,Maker of letters","Cutter,Maker"
 Librarian,Librarian,Librarian
-Limb (Artificial) maker,Artificial limb maker,Maker
+Limb (Artificial) maker,"Artificial limb maker,Maker of artificial limbs",Maker
 Lime-burner,Lime burner,Lime burner
-Lime-dealer and Merchant,"Lime dealer,Lime merchant","Dealer,Merchant"
+Lime-dealer and Merchant,"Lime dealer,Lime merchant,Dealer in lime","Dealer,Merchant"
 Linen Agent and Merchant,"Linen agent,Linen merchant","Agent,Merchant"
 Lint-manufacture,Lint manufacturer,Manufacturer
 Lithographer and Lithographic Printer,"Lithographer,Lithographic printer","Lithographer,Printer"
 Livery-stable-keeper,Livery stable keeper,Keeper
 Locksmith and Bell-hanger,"Locksmith,Bell hanger","Locksmith,Bell hanger"
 Lodging and Boarding-house Keeper,"Lodging keeper,Boarding house keeper",Keeper
-Looking-glass-maker,Looking glass maker,Maker
+Looking-glass-maker,"Looking glass maker,Maker of looking glasses",Maker
 Maltster,Maltster,Maltster
 Manchester Warehouseman,"Warehouseman,Warehousewoman","Warehouseman,Warehousewoman"
-Mangle-maker,Mangle maker,Maker
-Manure-dealer,Manure dealer,Dealer
-Map-maker and Publisher,"Map maker,Map publisher","Maker,Publisher"
-Marble-merchant and Dealer,"Marble merchant,Marble dealer","Merchant,Dealer"
+Mangle-maker,"Mangle maker,Maker of mangles",Maker
+Manure-dealer,"Manure dealer,Dealer in manure",Dealer
+Map-maker and Publisher,"Map maker,Map publisher,Maker of maps","Maker,Publisher"
+Marble-merchant and Dealer,"Marble merchant,Marble dealer,Dealer in marble","Merchant,Dealer"
 Marble-turner and Worker,"Marble turner,Marble worker","Turner,Worker"
-Marine-store-dealer,Marine store dealer,Dealer
+Marine-store-dealer,"Marine store dealer,Dealer in marine store",Dealer
 Marines (on shore),Marine,Marine
-Mark-maker,Mark maker,Maker
-Mask-maker,Mask maker,Maker
+Mark-maker,"Mark maker,Maker of marks",Maker
+Mask-maker,"Mask maker,Maker of masks",Maker
 "Mason, Marble",Marble mason,Mason
 "Mason, Paviour, and Statuary","Mason,Paviour,Statuary","Mason,Paviour,Statuary"
-Mat-maker,Mat maker,Maker
-Match-maker and Seller,"Match maker,Match seller","Maker,Seller"
-Mathematical Instrument-maker,Mathematical instrument maker,Maker
-Measure (Tape) maker,Tape measure maker,Maker
-Measure-maker,Measure maker,Maker
-Medalist and Medal-maker,"Medalist,Medal maker",Maker
+Mat-maker,"Mat maker,Maker of mats",Maker
+Match-maker and Seller,"Match maker,Match seller,Maker of matches","Maker,Seller"
+Mathematical Instrument-maker,"Mathematical instrument maker,Maker of mathematical instruments",Maker
+Measure (Tape) maker,"Tape measure maker,Maker of tape measures",Maker
+Measure-maker,"Measure maker,Maker of measures",Maker
+Medalist and Medal-maker,"Medalist,Medal maker,Maker of medals",Maker
 Medicine Vender,Medicine vender,Vender
 Merchant,Merchant,Merchant
-"Metal Agent, Merchant, and Dealer","Metal agent,Metal merchant,Metal dealer","Agent,Merchant,Dealer"
+"Metal Agent, Merchant, and Dealer","Metal agent,Metal merchant,Metal dealer,Dealer in metal","Agent,Merchant,Dealer"
 Metal-manufacture (all branches),Metal manufacturer,Manufacturer
 Meter (branch not specified),Meter,Meter
 Midwife,Midwife,Midwife
 Milk-seller and Cow-keeper,"Milk seller,Cow keeper","Seller,Keeper"
 Miller,Miller,Miller
-Millstone-maker,Millstone maker,Maker
+Millstone-maker,"Millstone maker,Maker of millstones",Maker
 Millwright,Millwright,Millwright
 Mine Agent,Mine agent,Agent
 Miner (branch not specified),Miner,Miner
@@ -482,29 +482,29 @@ Miner (branch not specified),Miner,Miner
 "Miner, Silver and Lead","Siver miner,Lead miner",Miner
 "Miner, Tin",Tin miner,Miner
 "Miner, Tin and Copper","Tin miner,Copper miner",Miner
-Mineralogist and Mineral-dealer,"Mineralogist,Mineral dealer","Mineralogist,Dealer"
+Mineralogist and Mineral-dealer,"Mineralogist,Mineral dealer,Dealer in mineral,Dealer in minerals","Mineralogist,Dealer"
 Minister,Minister,Minister
 Modeller,Modeller,Modeller
-Mop-maker,Mop maker,Maker
+Mop-maker,"Mop maker,Maker of mops",Maker
 Morocco leather Manufacture,Morocco leather manufacturer,Manufacturer
-Mould-maker (all branches),Mould maker,Maker
+Mould-maker (all branches),"Mould maker,Maker of moulds",Maker
 Moulder (branch not specified),Moulder,Moulder
 Music Copyist,Music copyist,Copyist
 Music Engraver and Printer,"Music engraver,Music printer","Engraver,Printer"
 Music Seller and Publisher,"Music seller,Music publisher","Seller,Publisher"
-Musical Instrument-maker (all branches),Musical instrument maker,Maker
-Musical String-maker,Musical string maker,Maker
+Musical Instrument-maker (all branches),"Musical instrument maker,Maker of musical instruments",Maker
+Musical String-maker,"Musical string maker,Maker of musical strings",Maker
 Musician and Organist,"Musician,Organist","Musician,Organist"
 Muslin-manufacture (all branches),Muslin manufacturer,Manufacturer
 Mustard-manufacture,Mustard manufacturer,Manufacturer
 Nail-manufacture (all branches),Nail manufacturer,Manufacturer
 Naturalist,Naturalist,Naturalist
-Nautical Instrument-maker,Nautical instrument maker,Maker
+Nautical Instrument-maker,"Nautical instrument maker,Maker of nautical instruments",Maker
 Navy (seamen on shore),"Navy seaman,Navy man,Navy woman","Seaman,Navy man,Navy woman"
 Navy Agent,Navy agent,Navy agent
 "Navy, Half-pay","Navy seaman,Navy man,Navy woman","Seaman,Navy man,Navy woman"
 Needle-manufacture (all branches),Needle manufacturer,Manufacturer
-Net-maker,Net maker,Maker
+Net-maker,"Net maker,Maker of nets",Maker
 News Agent and Vender,"News agent,News vender","News agent,Vender"
 "Newspaper Editor, Proprietor, and Reporter","Newspaper editor,Newspaper proprietor,Newspaper reporter","Editor,Proprietor,Reporter"
 Notary and Proctor,"Notary,Proctor","Notary,Proctor"
@@ -516,73 +516,73 @@ Oil Merchant,Oil merchant,Merchant
 Oil-miller,Oil miller,Miller
 Optician,Optician,Optician
 Organ-builder,Organ builder,Builder
-Ormolu-maker,Ormolu maker,Maker
-Ornament-maker,Ornament maker,Maker
+Ormolu-maker,"Ormolu maker,Maker of ormolu",Maker
+Ornament-maker,"Ornament maker,Maker of ornaments",Maker
 Ornithologist,Ornithologist,Ornithologist
 Other Persons employed in Trade (branch not specified),"Tradesman,Tradeswoman","Tradesman,Tradeswoman"
-Oven-maker,Oven maker,Maker
+Oven-maker,"Oven maker,Maker of ovens",Maker
 Packer and Presser,"Packer,Presser","Packer,Presser"
 "Painter, Herald",Herald painter,Painter
 "Painter, Plumber, and Glazier","Painter,Plumber,Glazier","Painter,Plumber,Glazier"
-Pan-maker,Pan maker,Maker
+Pan-maker,"Pan maker,Maker of pans",Maker
 Pansmith (Salt),Salt pansmith,Pansmith
-Paper Box-maker,Paper box maker,Maker
+Paper Box-maker,"Paper box maker,Maker of paper boxes",Maker
 Paper Ruler,Paper ruler,Ruler
 Paper Stainer,Paper stainer,Stainer
-Paper-maker,Paper maker,Maker
+Paper-maker,"Paper maker,Maker of paper",Maker
 Paper-manufacture (all branches),Paper manufacturer,Manufacturer
-"Paper, Merchant and Dealer","Paper merchant,Paper dealer","Merchant,Dealer"
+"Paper, Merchant and Dealer","Paper merchant,Paper dealer,Dealer in paper","Merchant,Dealer"
 Papier-mache Manufacture,Papier mache manufacturer,Manufacturer
-Parchment-maker and Dealer,"Parchment maker,Parchment dealer","Maker,Dealer"
+Parchment-maker and Dealer,"Parchment maker,Parchment dealer,Dealer in parchment,Maker of parchment","Maker,Dealer"
 Parliamentary Agent,Parliamentary agent,Parliamentary agent
 "Parochial, Church, and Corporation Officer","Parochial officer,Church officer,Corporation officer","Parochial officer,Church officer,Corporation officer"
-Paste-board-maker,Paste board maker,Maker
+Paste-board-maker,"Paste board maker,Maker of paste board",Maker
 Pastry-cook and Confectioner,"Pastry cook,Confectioner","Cook,Confectioner"
-Patten and Clog-maker,"Patten maker,Clog maker",Maker
-Pattern-card-maker,Pattern card maker,Maker
-Pattern-designer and Maker,"Pattern designer,Pattern maker","Designer,Maker"
+Patten and Clog-maker,"Patten maker,Clog maker,Maker of pattens,Maker of clogs",Maker
+Pattern-card-maker,"Pattern card maker,Maker of pattern cards",Maker
+Pattern-designer and Maker,"Pattern designer,Pattern maker,Maker of patterns","Designer,Maker"
 Pawnbroker,Pawnbroker,Pawnbroker
 Pearl-cutter and Worker,"Pearl cutter,Pearl worker","Cutter,Pearl worker"
-Peat-dealer,Peat dealer,Dealer
-Peel-maker,Peel maker,Maker
-Peg-maker,Peg maker,Maker
-Pen (Steel) Maker,Steel pen maker,Maker
-Pen-holder-maker,Pen holder maker,Maker
-Pen-maker and Dealer,"Pen maker,Pen dealer","Maker,Dealer"
-Pencil-case-maker,Pencil case maker,Maker
-Pencil-maker,Pencil maker,Maker
-Percussion-cap-maker,Percussion cap maker,Maker
+Peat-dealer,"Peat dealer,Dealer in peat",Dealer
+Peel-maker,"Peel maker,Maker of peels",Maker
+Peg-maker,"Peg maker,Maker of pegs",Maker
+Pen (Steel) Maker,"Steel pen maker,Maker of steel pens",Maker
+Pen-holder-maker,"Pen holder maker,Maker of pen holders",Maker
+Pen-maker and Dealer,"Pen maker,Pen dealer,Maker of pens,Dealer in pens","Maker,Dealer"
+Pencil-case-maker,"Pencil case maker,Maker of pencil cases",Maker
+Pencil-maker,"Pencil maker,Maker of pencils",Maker
+Percussion-cap-maker,"Percussion cap maker,Maker of percussion caps",Maker
 Perfumer,Perfumer,Perfumer
-Pewterer and Pewter Pot-maker,"Pewterer,Pewter pot maker","Pewterer,Maker"
-Philosophical Instrument-maker,Philosophical instrument maker,Maker
+Pewterer and Pewter Pot-maker,"Pewterer,Pewter pot maker,Maker of pewter pots","Pewterer,Maker"
+Philosophical Instrument-maker,"Philosophical instrument maker,Maker of philosophical instruments",Maker
 Phrenologist,Phrenologist,Phrenologist
 Physician,Physician,Physician
-Picture-dealer and Cleaner,"Picture dealer,Picture cleaner","Dealer,Picture cleaner"
-Picture-frame-maker,Picture frame maker,Maker
-Pig-dealer and Merchant,"Pig dealer,Pig merchant","Dealer,Merchant"
+Picture-dealer and Cleaner,"Picture dealer,Picture cleaner,Dealer in pictures","Dealer,Picture cleaner"
+Picture-frame-maker,"Picture frame maker,Maker of picture frames",Maker
+Pig-dealer and Merchant,"Pig dealer,Pig merchant,Dealer in pigs","Dealer,Merchant"
 Pin Manufacture (all branches),Pin manufacturer,Manufacturer
-Pipe (Tobacco) Maker,Tobacco pipe maker,Maker
-Pipe-maker,Pipe maker,Maker
+Pipe (Tobacco) Maker,"Tobacco pipe maker,Maker of tobacco pipes",Maker
+Pipe-maker,"Pipe maker,Maker of pipes",Maker
 Pitch and Tar-merchant,"Pitch merchant,Tar merchant",Merchant
-Plaister and Strapping-maker,"Plaister maker,Strapping maker",Maker
+Plaister and Strapping-maker,"Plaister maker,Strapping maker,Maker of plaister,Maker of strapping",Maker
 Plaster Manufacture,Plaster manufacturer,Manufacturer
 Plasterer,Plasterer,Plasterer
 Plate-layer,Plate layer,Plate layer
 Plated ware-manufacture,Plated ware manufacturer,Manufacturer
 Plater,Plater,Plater
 Plush and Shag-manufacture (all branches),"Plush manufacturer,Shag manufacturer",Manufacturer
-Pocket-book and Card-case-maker,"Pocket book maker,Card case maker",Maker
-Pole-dealer and Maker,"Pole dealer,Pole maker","Dealer,Maker"
+Pocket-book and Card-case-maker,"Pocket book maker,Card case maker,Maker of pocket books,Maker of card cases",Maker
+Pole-dealer and Maker,"Pole dealer,Pole maker,Dealer in poles,Maker of poles","Dealer,Maker"
 "Police-officer, Constable, and Watchman","Police officer,Constable,Watchman","Police officer,Constable,Watchman"
 Polisher,Polisher,Polisher
-Polishing-paste-maker,Polishing paste maker,Maker
+Polishing-paste-maker,"Polishing paste maker,Maker of polishing paste",Maker
 Porter and Ale-merchant,"Porter merchant,Ale merchant",Merchant
 "Porter, Messenger, and Errand-boy","Porter,Messenger,Errand boy,Errand girl","Porter,Messenger,Errand boy,Errand girl"
-Potatoe-dealer and Merchant,"Potatoe dealer,Potatoe merchant,Potato dealer,Potato merchant","Dealer,Merchant"
+Potatoe-dealer and Merchant,"Potatoe dealer,Potatoe merchant,Potato dealer,Potato merchant,Dealer in potatoes","Dealer,Merchant"
 "Pottery, China and Earthenware Manufacture (all branches)","Pottery manufacturer, China manufacturer,Earthenware manufacturer",Manufacturer
-Poulterer and Game-dealer,"Poulterer,Game dealer","Poulterer,Dealer"
+Poulterer and Game-dealer,"Poulterer,Game dealer,Dealer in game","Poulterer,Dealer"
 Press worker,Press worker,Press worker
-Press-maker,Press maker,Maker
+Press-maker,"Press maker,Maker of presses",Maker
 Print colourer,Print colourer,Colourer
 Print-seller,Print seller,Seller
 Printer,Printer,Printer
@@ -591,9 +591,9 @@ Printer,Printer,Printer
 "Printer, Silk",Silk printer,Printer
 "Printer, Woollen",Woollen printer,Printer
 Provision-curer,Provision curer,Curer
-Provision-dealer,Provision dealer,Dealer
-Pump-maker,Pump maker,Maker
-Purse-maker,Purse maker,Maker
+Provision-dealer,"Provision dealer,Dealer in provisions",Dealer
+Pump-maker,"Pump maker,Maker of pumps",Maker
+Purse-maker,"Purse maker,Maker of purses",Maker
 Quarrier (branch not specified),Quarrier,Quarrier
 "Quarrier, Limestone",Limestone quarrier,Quarrier
 "Quarrier, Slate",Slate quarrier,Quarrier
@@ -603,66 +603,66 @@ Quarry Agent,Quarry agent,Quarry agent
 Quarry-owner,Quarry owner,Owner
 Quill-cutter,Quill cutter,Cutter
 Quill-merchant,Quill merchant,Merchant
-Quilter and Quilt-maker,"Quilter,Quilt maker","Quilter,Maker"
-Rack-maker,Rack maker,Maker
-"Rag-cutter, Dealer, and Gatherer","Rag cutter,Rag dealer,Rag gatherer","Cutter,Dealer,Gatherer"
+Quilter and Quilt-maker,"Quilter,Quilt maker,Maker of quilts","Quilter,Maker"
+Rack-maker,"Rack maker,Maker of racks",Maker
+"Rag-cutter, Dealer, and Gatherer","Rag cutter,Rag dealer,Rag gatherer,Dealer in rags","Cutter,Dealer,Gatherer"
 Railway Agent and Contractor,"Railway agent,Railway contractor","Railway agent,Railway contractor"
 Railway Service (exclusive of Clerks and Engineers),"Railway worker,Railway labourer","Railway worker,Railway labourer"
-Razor-case-maker,Razor case maker,Maker
-Razor-maker,Razor maker,Maker
-Red-lead-maker,Red lead maker,Maker
+Razor-case-maker,"Razor case maker,Maker of razor cases",Maker
+Razor-maker,"Razor maker,Maker of razors",Maker
+Red-lead-maker,"Red lead maker,Maker of red lead",Maker
 Reed Merchant,Reed merchant,Merchant
-Reed-maker,Reed maker,Maker
-Reel-maker,Reel maker,Maker
+Reed-maker,"Reed maker,Maker of reeds",Maker
+Reel-maker,"Reel maker,Maker of reels",Maker
 Refiner (all branches),Refiner,Refiner
 Register-office (Servants) Keeper,Register office keeper,Keeper
-Respirator-maker,Respirator maker,Maker
+Respirator-maker,"Respirator maker,Maker of respirators",Maker
 Ribbon-manufacture (all branches),Ribbon manufacturer,Manufacturer
-Ribbon-merchant and Dealer,"Ribbon merchant,Ribbon dealer","Merchant,Dealer"
+Ribbon-merchant and Dealer,"Ribbon merchant,Ribbon dealer,Dealer in ribbon,Dealer in ribbons","Merchant,Dealer"
 Rice miller and Merchant,"Rice miller,Rice merchant","Miller,Merchant"
-Ring-maker and Turner,"Ring maker,Ring turner","Maker,Turner"
-Rivet-maker,Rivet maker,Maker
+Ring-maker and Turner,"Ring maker,Ring turner,Maker of rings","Maker,Turner"
+Rivet-maker,"Rivet maker,Maker of rivets",Maker
 Road Contractor,Road contractor,Contractor
-Robe-maker,Robe maker,Maker
-Roller-maker and Turner,"Roller maker,Roller turner","Maker,Turner"
-Rope and Cord-spinner and Maker,"Rope spinner,Cord spinner,Rope maker,Cord maker","Spinner,Maker"
-Rule-maker,Rule maker,Maker
-Rush-dealer and Manufacturer,"Rush dealer,Rush manufacturer","Dealer,Manufacturer"
+Robe-maker,"Robe maker,Maker of robes",Maker
+Roller-maker and Turner,"Roller maker,Roller turner,Maker of rollers","Maker,Turner"
+Rope and Cord-spinner and Maker,"Rope spinner,Cord spinner,Rope maker,Cord maker,Maker of rope,Maker of cord","Spinner,Maker"
+Rule-maker,"Rule maker,Maker of rules",Maker
+Rush-dealer and Manufacturer,"Rush dealer,Rush manufacturer,Dealer in rushes","Dealer,Manufacturer"
 Russia-merchant and Broker,"Russia merchant,Russia broker","Merchant,Broker"
-Sack and Bag-dealer and Maker,"Sack dealer,Bag dealer,Sack maker,Bag maker","Dealer,Maker"
-Saddle tree-maker,Saddle tree maker,Maker
-"Saddler, and Harness and Collar-maker","Saddler,Harness maker,Collar maker","Saddler,Maker"
+Sack and Bag-dealer and Maker,"Sack dealer,Bag dealer,Sack maker,Bag maker,Dealer in sacks,Maker of sacks,Dealer in bags,Maker of bags","Dealer,Maker"
+Saddle tree-maker,"Saddle tree maker,Maker of saddle trees",Maker
+"Saddler, and Harness and Collar-maker","Saddler,Harness maker,Collar maker,Maker of harnesses,Maker of collars","Saddler,Maker"
 "Sail, Sail-cloth, and Tarpaulin Manufacture","Sail manufacturer,Sail cloth manufacturer,Tarpaulin manufacturer",Manufacturer
 Salesman and Saleswoman,"Salesman,Saleswoman","Salesman,Saleswoman"
 Salt Agent,Salt agent,Agent
-Salt Dealer and Merchant,"Salt dealer,Salt merchant","Dealer,Merchant"
+Salt Dealer and Merchant,"Salt dealer,Salt merchant,Dealer in salt","Dealer,Merchant"
 Salt Manufacture (all branches),Salt manufacturer,Manufacturer
 Salt Proprietor,Salt proprietor,Proprietor
 Sand-merchant,Sand merchant,Merchant
-Sauce and Pickle-maker,"Sauce maker,Pickle maker",Maker
+Sauce and Pickle-maker,"Sauce maker,Pickle maker,Maker of sauce,Maker of sauces,Maker of pickles",Maker
 Sawyer,Sawyer,Sawyer
-Scagliola-maker,Scagliola maker,Maker
-Scale-maker,Scale maker,Maker
+Scagliola-maker,"Scagliola maker,Maker of scagliola",Maker
+Scale-maker,"Scale maker,Maker of scales",Maker
 Scavenger and Nightman,"Scavenger,Nightman","Scavenger,Nightman"
 "Schoolmaster, Mistress, and Assistant; Tutor or Governess","Schoolmaster,Schoolmistress,School assistant,Tutor,Governess","Schoolmaster,Schoolmistress,School assistant,Tutor,Governess"
-Scissor-maker,Scissor maker,Maker
-Screen-maker,Screen maker,Maker
-Screw (Wood) Maker,Wood screw maker,Maker
-Screw-cutter and Maker,"Screw cutter,Screw maker","Cutter,Maker"
+Scissor-maker,"Scissor maker,Maker of scissors",Maker
+Screen-maker,"Screen maker,Maker of screens",Maker
+Screw (Wood) Maker,"Wood screw maker,Maker of wood screws",Maker
+Screw-cutter and Maker,"Screw cutter,Screw maker,Maker of screws","Cutter,Maker"
 Scrivener,Scrivener,Scrivener
 Sculptor,Sculptor,Sculptor
 Scum-boiler,Scum boiler,Scum boiler
-Scuttle-maker,Scuttle maker,Maker
-Seal-maker and Polisher,"Seal maker,Seal polisher","Maker,Polisher"
-Sealing-wax-maker,Sealing wax maker,Maker
+Scuttle-maker,"Scuttle maker,Maker of scuttles",Maker
+Seal-maker and Polisher,"Seal maker,Seal polisher,Maker of seals","Maker,Polisher"
+Sealing-wax-maker,"Sealing wax maker,Maker of sealing wax",Maker
 Seaman (on shore),Seaman,Seaman
 Seaman (Pilot),Pilot,Pilot
 Seamstress and Seamster,"Seamstress,Seamster","Seamstress,Seamster"
 Seedsman and Seed-merchant,"Seedsman,Seedswoamn,Seed merchant","Seedsman,Seedswoamn,Merchant"
 "Servant, Domestic",Domestic servant,Servant
 Shawl-manufacture (all branches),Shawl manufacturer,Manufacturer
-Shawl-merchant and Dealer,"Shawl merchant,Shawl dealer","Merchant,Dealer"
-Shell-dealer,Shell dealer,Dealer
+Shawl-merchant and Dealer,"Shawl merchant,Shawl dealer,Dealer in shawls","Merchant,Dealer"
+Shell-dealer,"Shell dealer,Dealer in shells",Dealer
 Ship and Smack-owner,"Ship owner,Smack owner",Owner
 Ship Breaker,Ship breaker,Ship breaker
 "Ship Builder, Carpenter and Wright","Ship builder,Ship carpenter,Shipwright","Builder,Carpenter,Shipwright"
@@ -671,90 +671,90 @@ Ship Chandler,Ship chandler,Chandler
 Ship Rigger,Ship rigger,Rigger
 Ship Smith,Ship smith,Smith
 Ship-agent and Broker,"Ship agent,Ship broker","Agent,Broker"
-Shoe (Carpet and List) maker,"Carpet shoe maker,List shoe maker",Maker
+Shoe (Carpet and List) maker,"Carpet shoe maker,List shoe maker,Maker of carpet shoes,Maker of list shoes",Maker
 Shop-keeper and General Dealer,"Shop keeper,General dealer","Keeper,Dealer"
-Shot-dealer and Factor,"Shot dealer,Shot factor","Dealer,Factor"
-Shot-maker,Shot maker,Maker
-Shovel-maker,Shovel maker,Maker
-Shroud-maker,Shroud maker,Maker
-Shuttle-maker,Shuttle maker,Maker
-Sieve-maker,Sieve maker,Maker
+Shot-dealer and Factor,"Shot dealer,Shot factor,Dealer in shot,Dealer in shots","Dealer,Factor"
+Shot-maker,"Shot maker,Maker of shot",Maker
+Shovel-maker,"Shovel maker,Maker of shovels",Maker
+Shroud-maker,"Shroud maker,Maker of shrouds",Maker
+Shuttle-maker,"Shuttle maker,Maker of shuttles",Maker
+Sieve-maker,"Sieve maker,Maker of sieves",Maker
 Silk Agent and Broker,"Silk agent,Silk broker","Agent,Broker"
 Silk Manufacture (all branches),Silk manufacturer,Manufacturer
 Silk Mercer,Silk mercer,Mercer
 Silk Merchant,Silk merchant,Merchant
-Sinker-maker,Sinker maker,Maker
-Skate-maker,Skate maker,Maker
-Skewer-maker,Skewer maker,Maker
+Sinker-maker,"Sinker maker,Maker of sinkers",Maker
+Skate-maker,"Skate maker,Maker of skates",Maker
+Skewer-maker,"Skewer maker,Maker of skewers",Maker
 Skinner and Skin-dresser,"Skinner,Skin dresser","Skinner,Dresser"
-Skylight and Sash-maker,"Skylight maker,Sash maker",Maker
+Skylight and Sash-maker,"Skylight maker,Sash maker,Maker of skylights,Maker of sashes",Maker
 Slate Agent and Merchant,"Slate agent,Slate merchant","Agent,Merchant"
 Slate-manufacture,Slate manufacturer,Manufacturer
 Slater,Slater,Slater
-Slop-maker and Seller,"Slop maker,Slop seller","Maker,Seller"
-Small Ware-dealer,Small ware dealer,Dealer
+Slop-maker and Seller,"Slop maker,Slop seller,Maker of slop","Maker,Seller"
+Small Ware-dealer,"Small ware dealer,Dealer in small wares",Dealer
 Small-ware-manufacture (all branches),Small ware manufacturer,Manufacturer
 Smelter (ore not specified),Smelter,Smelter
 Smelting Agent,Smelting agent,Agent
-Snuff and Tobacco-box-maker,"Snuff box maker,Tobacco box maker",Maker
-Snuffer-maker,Snuffer maker,Maker
-Soap-boiler and Maker,"Soap boiler,Soap maker","Soap boiler,Maker"
+Snuff and Tobacco-box-maker,"Snuff box maker,Tobacco box maker,Maker of snuff boxes,Maker of tobacco boxes",Maker
+Snuffer-maker,"Snuffer maker,Maker of snuffers",Maker
+Soap-boiler and Maker,"Soap boiler,Soap maker,Maker of soap","Soap boiler,Maker"
 Soda-manufacture,Soda manufacturer,Manufacturer
 "Spar-manufacturer, Cutter, and Turner","Spar manufacturer,Spar cutter,Spar turner","Manufacturer,Cutter,Turner"
-Spectacle-maker,Spectacle maker,Maker
+Spectacle-maker,"Spectacle maker,Maker of spectacles",Maker
 Spice-merchant,Spice merchant,Merchant
-Spile-maker,Spile maker,Maker
-Spindle-maker,Spindle maker,Maker
+Spile-maker,"Spile maker,Maker of spiles",Maker
+Spindle-maker,"Spindle maker,Maker of spindles",Maker
 Spinner (branch not specified),Spinner,Spinner
-Sponge-dealer and Merchant,"Sponge dealer,Sponge merchant","Dealer,Merchant"
-Spoon-maker,Spoon maker,Maker
-Spring (Door) maker,Door spring maker,Maker
-Spring (Secret) maker,Secret spring maker,Maker
-Spring-maker,Spring maker,Maker
-Spur-maker,Spur maker,Maker
-Stamp-maker,Stamp maker,Maker
+Sponge-dealer and Merchant,"Sponge dealer,Sponge merchant,Dealer in sponges","Dealer,Merchant"
+Spoon-maker,"Spoon maker,Maker of spoons",Maker
+Spring (Door) maker,"Door spring maker,Maker of door springs",Maker
+Spring (Secret) maker,"Secret spring maker,Maker of secret springs",Maker
+Spring-maker,"Spring maker,Maker of springs",Maker
+Spur-maker,"Spur maker,Maker of spurs",Maker
+Stamp-maker,"Stamp maker,Maker of stamps",Maker
 Starch-manufacture,Starch manufacturer,Manufacturer
 Stationer,Stationer,Stationer
 "Stationer, Law",Law stationer,Stationer
-Stay and Corset-maker,"Stay maker,Corset maker",Maker
+Stay and Corset-maker,"Stay maker,Corset maker,Maker of stays,Maker of corsets",Maker
 Steel Merchant,Steel merchant,Merchant
 Steel-worker,Steel worker,Steel worker
-Steelyard-maker,Steelyard maker,Maker
+Steelyard-maker,"Steelyard maker,Maker of steelyards",Maker
 Stenciller,Stenciller,Stenciller
 Stereotype-founder,Stereotype founder,Stereotype founder
 Stevedore,Stevedore,Stevedore
 Steward (branch not specified),"Steward,Stewardess","Steward,Stewardess"
 Steward and Stewardess (Ship),"Ship steward,Ship stewardess","Steward,Stewardess"
-Stirrup-maker,Stirrup maker,Maker
-Stock (Men's) maker,Men's stock maker,Maker
-Stock-maker,Stock maker,Maker
+Stirrup-maker,"Stirrup maker,Maker of stirrups",Maker
+Stock (Men's) maker,"Men's stock maker,Maker of men's stock",Maker
+Stock-maker,"Stock maker,Maker of stock",Maker
 Stone Agent,Stone agent,Agent
-Stone merchant and Dealer,"Stone merchant,Stone dealer","Merchant,Dealer"
+Stone merchant and Dealer,"Stone merchant,Stone dealer,Dealer in stone,Dealer in stones","Merchant,Dealer"
 Store-keeper,Store keeper,Keeper
-Straw Bonnet and Hat-maker,"Straw bonnet maker,Hat maker",Maker
+Straw Bonnet and Hat-maker,"Straw bonnet maker,Hat maker,Maker of straw bonnets,Maker of hats",Maker
 Straw-plait Manufacture (all branches),Straw plait manufacturer,Manufacturer
-"Straw-plait-dealer, Factor, and Merchant","Straw plait dealer,Straw plait factor,Straw plait merchant","Dealer,Factor,Merchant"
-Strop-maker,Strop maker,Maker
+"Straw-plait-dealer, Factor, and Merchant","Straw plait dealer,Straw plait factor,Straw plait merchant,Dealer in straw plait,Dealer in straw plaits","Dealer,Factor,Merchant"
+Strop-maker,"Strop maker,Maker of strops",Maker
 Stuff Manufacture (all branches),Stuff manufacturer,Manufacturer
 "Sugar-baker, Boiler, and Refiner","Sugar baker,Sugar boiler,Sugar refiner","Baker,Sugar boiler,Refiner"
 "Surgeon, Apothecary, and Medical Student","Surgeon,Apothecary,Medical student","Surgeon,Apothecary,Medical student"
-Surgical Insturment-maker,Surgical insturment maker,Maker
+Surgical Insturment-maker,"Surgical insturment maker,Maker of surgical instruments",Maker
 Surveyor (all branches),Surveyor,Surveyor
-Swivel-maker,Swivel maker,Maker
-Sword Cutler and Maker,"Sword cutler,Sword maker","Cutler,Maker"
-Tag-maker and Dealer,"Tag maker,Tag dealer","Maker,Dealer"
-Tailor and Breeches-maker,"Tailor maker,Breeches maker",Maker
+Swivel-maker,"Swivel maker,Maker of swivels",Maker
+Sword Cutler and Maker,"Sword cutler,Sword maker,Maker of swords","Cutler,Maker"
+Tag-maker and Dealer,"Tag maker,Tag dealer,Dealer in tags,Maker of tags","Maker,Dealer"
+Tailor and Breeches-maker,"Tailor,Breeches maker,Maker of breeches",Maker
 Tallow and Wax Chandler,"Tallow chandler,Wax chandler",Chandler
-Tank-maker,Tank maker,Maker
+Tank-maker,"Tank maker,Maker of tanks",Maker
 Tanner,Tanner,Tanner
 Tape-manufacture (all branches),Tape manufacturer,Manufacturer
-Tar and Rosin maker,"Tar maker,Rosin maker",Maker
-Tassel-maker,Tassel maker,Maker
+Tar and Rosin maker,"Tar maker,Rosin maker,Maker of tar,Maker of rosin",Maker
+Tassel-maker,"Tassel maker,Maker of tassels",Maker
 Tavern Beer-shop-keeper,Beer shop keeper,Keeper
 Tavern Hotel and Inn-keeper,"Tavern keeper,Hotel keeper,Inn keeper",Keeper
 Tavern Publican and Victualler,"Publican,Victualler","Publican,Victualler"
 Tavern Spirit-merchant,Spirit merchant,Merchant
-Tea and Coffee Pot-maker,"Tea pot maker,Coffee pot maker",Maker
+Tea and Coffee Pot-maker,"Tea pot maker,Coffee pot maker,Maker of tea pots,Maker of coffee pots",Maker
 Tea-broker and Merchant,"Tea broker,Tea merchant","Broker,Merchant"
 "Teacher or Professor, Belles Lettres","Belles Lettres teacher,Belles lettres professor,Professor of belles lettres","Teacher,Professor"
 "Teacher or Professor, Dancing and Gymnastics","Dancing teacher,Dancing professor,Professor of dancing,Gymnastics teacher,Gymnastics professor,Professor of gymnastics","Teacher,Professor"
@@ -766,70 +766,70 @@ Tea-broker and Merchant,"Tea broker,Tea merchant","Broker,Merchant"
 Teazle Grower and Merchant,"Teazle grower,Teazle merchant","Grower,Merchant"
 Tennis Court Keeper,Tennis court keeper,Keeper
 Thatcher,Thatcher,Thatcher
-Theatrical Property-maker,Theatrical property maker,Maker
-Thimble-maker,Thimble maker,Maker
-Thread (Shoe) Maker and Winder,"Shoe thread maker,Shoe thread winder","Maker,Winder"
+Theatrical Property-maker,"Theatrical property maker,Maker of theatrical property",Maker
+Thimble-maker,"Thimble maker,Maker of thimbles",Maker
+Thread (Shoe) Maker and Winder,"Shoe thread maker,Shoe thread winder,Maker of shoe threads","Maker,Winder"
 Thread-manufacture (all branches),Thread manufacturer,Manufacturer
 Tiler,Tiler,Tiler
-Tilt-maker,Tilt maker,Maker
+Tilt-maker,"Tilt maker,Maker of tilts",Maker
 Timber Agent and Broker,"Timber agent,Timber broker","Agent,Broker"
 Timber Bender,Timber bender,Timber bender
-Timber-merchant and Dealer,"Timber merchant,Timber dealer","Merchant,Dealer"
-Tin Foil-maker,Tin foil maker,Maker
+Timber-merchant and Dealer,"Timber merchant,Timber dealer,Dealer in timber","Merchant,Dealer"
+Tin Foil-maker,"Tin foil maker,Maker of tin foil",Maker
 Tin Manufacture (all branches),Tin manufacturer,Manufacturer
-Tin-dealer and Agent,"Tin dealer,Tin agent","Dealer,Agent"
+Tin-dealer and Agent,"Tin dealer,Tin agent,Dealer in tin","Dealer,Agent"
 Tin-plate-worker and Tinman,"Tin plate worker,Tinman","Tin plate worker,Tinman"
-Tip-maker,Tip maker,Maker
+Tip-maker,"Tip maker,Maker of tips",Maker
 Tobacconist and Tobacco and Snuff Manufacture (all branches),"Tobacconist,Tobacco manufacturer,Snuff manufacturer","Tobacconist,Manufacturer"
 Toll-collector,Toll collector,Toll collector
 Toll-contractor,Toll contractor,Toll contractor
 Tonbridge-ware Manufacture,Tonbridge ware manufacturer,Manufacturer
-Tool-dealer and Maker (all branches),"Tool dealer,Tool maker","Dealer,Maker"
-Tortoiseshell-dealer and Worker,"Tortoiseshell dealer,Tortoiseshell worker","Dealer,Tortoiseshell worker"
-Toy-dealer and Maker,"Toy dealer,Toy maker","Dealer,Maker"
-Trap-maker,Trap maker,Maker
+Tool-dealer and Maker (all branches),"Tool dealer,Tool maker,Dealer in tools,Maker of tools","Dealer,Maker"
+Tortoiseshell-dealer and Worker,"Tortoiseshell dealer,Tortoiseshell worker,Dealer in tortoiseshell","Dealer,Tortoiseshell worker"
+Toy-dealer and Maker,"Toy dealer,Toy maker,Dealer in toys,Maker of toys","Dealer,Maker"
+Trap-maker,"Trap maker,Maker of traps",Maker
 "Traveller, Commercial",Commercial traveller,Commercial traveller
-Tray-maker,Tray maker,Maker
-Treenail-maker,Treenail maker,Maker
-Trimming-dealer,Trimming dealer,Dealer
-Trimming-maker,Trimming maker,Maker
-Tripe-dealer and Dresser,"Tripe dealer,Tripe dresser","Dealer,Dresser"
-Trunk and Box-maker,"Trunk maker,Box maker",Maker
-Truss maker,Truss maker,Maker
-Tube-maker,Tube maker,Maker
-"Turf-cutter, Dealer, and Merchant","Turf cutter,Turf dealer,Turf merchant","Cutter,Dealer,Merchant"
+Tray-maker,"Tray maker,Maker of trays",Maker
+Treenail-maker,"Treenail maker,Maker of treenails",Maker
+Trimming-dealer,"Trimming dealer,Dealer in trimming",Dealer
+Trimming-maker,"Trimming maker,Maker of trimming,Maker of trimmings",Maker
+Tripe-dealer and Dresser,"Tripe dealer,Tripe dresser,Dealer in tripe","Dealer,Dresser"
+Trunk and Box-maker,"Trunk maker,Box maker,Maker of trunks,Maker of boxes",Maker
+Truss maker,"Truss maker,Maker of trusses",Maker
+Tube-maker,"Tube maker,Maker of tubes",Maker
+"Turf-cutter, Dealer, and Merchant","Turf cutter,Turf dealer,Turf merchant,Dealer in turf","Cutter,Dealer,Merchant"
 Turner,Turner,Turner
-Turpentine-distiller and Maker,"Turpentine distiller,Turpentine maker","Distiller,Maker"
+Turpentine-distiller and Maker,"Turpentine distiller,Turpentine maker,Maker of turpentine","Distiller,Maker"
 Type-founder,Type founder,Type founder
-"Umbrella, Parasol and Walking-stick Maker","Umbrella maker,Parasol maker,Walking stick maker",Maker
+"Umbrella, Parasol and Walking-stick Maker","Umbrella maker,Parasol maker,Walking stick maker,Maker of umbrellas,Maker of parasols,Maker of walking sticks",Maker
 Undertaker,Undertaker,Undertaker
-Urn-maker,Urn maker,Maker
-Varnish-maker,Varnish maker,Maker
+Urn-maker,"Urn maker,Maker of urns",Maker
+Varnish-maker,"Varnish maker,Maker of varnish",Maker
 Vellum-binder,Vellum binder,Binder
 Ventriloquist,Ventriloquist,Ventriloquist
 Vermin-destroyer,Vermin destroyer,Vermin destroyer
-Vinegar-maker,Vinegar maker,Maker
+Vinegar-maker,"Vinegar maker,Maker of vinegar",Maker
 Vitriol-manufacture,Vitriol manufacturer,Manufacturer
-Wadding-maker,Wadding maker,Maker
-Wafer-maker,Wafer maker,Maker
+Wadding-maker,"Wadding maker,Maker of wadding",Maker
+Wafer-maker,"Wafer maker,Maker of wafer",Maker
 Warehouseman and Woman,"Warehouseman,Warehousewoman","Warehouseman,Warehousewoman"
-Waste-dealer,Waste dealer,Dealer
-Water-carrier and Dealer,"Water carrier,Water dealer","Water carrier,Dealer"
+Waste-dealer,"Waste dealer,Dealer in waste",Dealer
+Water-carrier and Dealer,"Water carrier,Water dealer,Dealer in water","Water carrier,Dealer"
 Water-gilder,Water gilder,Gilder
 Water-works Service,Water works labourer,Water works labourer
 Wax Merchant,Wax merchant,Merchant
 Wax-modeller and Worker,"Wax modeller,Wax worker","Wax modeller,Wax worker"
 Weaver (branch not specified),Weaver,Weaver
-Weighing-machine-maker,Weighing machine maker,Maker
+Weighing-machine-maker,"Weighing machine maker,Maker of weighing machines",Maker
 Well-sinker,Well sinker,Well sinker
 West India Agent and Merchant,"West India agent,West India merchant","Agent,Merchant"
 Whalebone-merchant,Whalebone merchant,Merchant
 Whalebone-worker,Whalebone worker,Whalebone worker
 Wharfinger,Wharfinger,Wharfinger
 Wheelwright,Wheelwright,Wheelwright
-Whetstone-cutter and Maker,"Whetstone cutter,Whetstone maker","Cutter,Maker"
-Whip-maker,Whip maker,Maker
-White-lead-maker,White lead maker,Maker
+Whetstone-cutter and Maker,"Whetstone cutter,Whetstone maker,Maker of whetstone","Cutter,Maker"
+Whip-maker,"Whip maker,Maker of whips",Maker
+White-lead-maker,"White lead maker,Maker of white lead",Maker
 Whitesmith,Whitesmith,Smith
 Whiting Manufacture,Whiting manufacturer,Manufacturer
 Willow-merchant,Willow merchant,Merchant
@@ -837,22 +837,22 @@ Willow-Weaver and Worker,"Willow weaver,Willow worker","Weaver,Willow worker"
 Wine Agent and Merchant,"Wine agent,Wine merchant","Agent,Merchant"
 Wine-cooper,Wine cooper,Cooper
 Wire Merchant,Wire merchant,Merchant
-Wire Rope-maker,Wire rope maker,Maker
+Wire Rope-maker,"Wire rope maker,Maker of wire rope",Maker
 Wire Worker and Weaver,"Wire worker,Wire weaver","Wire worker,Weaver"
-Wire-drawer and Maker,"Wire drawer,Wire maker","Wire drawer,Maker"
+Wire-drawer and Maker,"Wire drawer,Wire maker,Maker of wire","Wire drawer,Maker"
 Wood Cutter and Woodman,"Wood cutter,Woodman,Woodwoman","Cutter,Woodman,Woodwoman"
-Wood Merchant and Dealer,"Wood merchant,Wood dealer","Merchant,Dealer"
+Wood Merchant and Dealer,"Wood merchant,Wood dealer,Dealer in wood","Merchant,Dealer"
 Wood-bailiff and Keeper,"Wood bailiff,Wood keeper","Bailiff,Keeper"
-Wool (Berlin) Dealer and Worker,"Berlin wool dealer,Berlin wool worker","Dealer,Wool worker"
+Wool (Berlin) Dealer and Worker,"Berlin wool dealer,Berlin wool worker,Dealer in berlin wool","Dealer,Wool worker"
 "Wool Agent, Merchant, and Stapler","Wool agent,Wool merchant,Wool stapler","Wool agent,Merchant,Wool stapler"
 Woollen Agent and Factor,"Woollen agent,Woolen factor","Agent,Factor"
 Woollen and Cloth-manufacture (all branches),"Woollen manufacturer,Cloth manufacturer",Manufacturer
 Woollen-draper,Woollen draper,Draper
-Worsted-dealer and Merchant,"Worsted dealer,Worsted merchant","Dealer,Merchant"
+Worsted-dealer and Merchant,"Worsted dealer,Worsted merchant,Dealer in worsted","Dealer,Merchant"
 Worsted-manufacture (all branches),Worsted manufacturer,Manufacturer
 Yarn Agent,Yarn agent,Agent
-Yarn-dealer,Yarn dealer,Dealer
+Yarn-dealer,"Yarn dealer,Dealer in yarn",Dealer
 Yarn-manufacture (all branches),Yarn manufacturer,Manufacturer
-Yeast-dealer and Merchant,"Yeast dealer,Yeast merchant","Dealer,Merchant"
+Yeast-dealer and Merchant,"Yeast dealer,Yeast merchant,Dealer in yeast","Dealer,Merchant"
 Zinc Agent and Merchant,"Zinc agent,Zinc merchant","Agent,Merchant"
 Zinc-manufacturer and Worker,"Zinc manufacturer,Zinc worker","Manufacturer,Zinc worker"
